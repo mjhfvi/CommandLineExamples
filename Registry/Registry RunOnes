@@ -1,0 +1,1 @@
+REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce" /V "InstallScript" /t REG_SZ /F /D "\\IL-AIR-FS01\Software\Scripts\NewComputers\Testing - Basic Development New Computer Windows 64Bit Install - Part 2.cmd"
