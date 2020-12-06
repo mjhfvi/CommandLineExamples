@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\7zip\7z1900-x64.msi /qb

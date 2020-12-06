@@ -1,0 +1,1 @@
+\\SERVER\Software\Drivers\HP\"Client Management Solutions - HP drivers (SoftPaqs) downloads"\HP_SDM_Setup\setup.msi /qb

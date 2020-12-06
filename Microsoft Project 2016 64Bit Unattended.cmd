@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Microsoft\OfficeAllVersions\Project\SW_DVD5_Project_Pro_2016_64Bit_English_MLF_X20-42683\setup.exe /adminfile \\SERVER\Software\Installations\Microsoft\OfficeAllVersions\Project\SW_DVD5_Project_Pro_2016_64Bit_English_MLF_X20-42683\unattended.MSP

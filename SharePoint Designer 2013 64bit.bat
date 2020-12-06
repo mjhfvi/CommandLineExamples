@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Microsoft\OfficeAllVersions\"SharePoint Designer 2013_64bit.exe"

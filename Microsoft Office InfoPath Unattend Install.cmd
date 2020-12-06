@@ -1,0 +1,1 @@
+\\SERVER\DEPOT\Microsoft\"Office infopath_4753-1001_x64_en-us.exe" /quiet /norestart

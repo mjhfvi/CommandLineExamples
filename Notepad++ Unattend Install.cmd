@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Programmers\Notepad++\Notepad++7.7.msi /qb

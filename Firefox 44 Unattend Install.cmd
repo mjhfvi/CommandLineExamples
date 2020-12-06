@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Mozilla\Firefox-44.0.2-en-US-silent.exe

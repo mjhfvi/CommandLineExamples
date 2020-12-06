@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Autodesk\SetupDesignReview2013\SetupDesignReview2013.msi /qb

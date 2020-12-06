@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Microsoft\Office\3DSOffice\OfficeProfessionalPlus2016\InstallSet\setup /adminfile \\SERVER\Software\Installations\Microsoft\Office\3DSOffice\OfficeProfessionalPlus2016\InstallSet\Unattended.MSP

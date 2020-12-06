@@ -1,0 +1,19 @@
+PowerShell
+Reset-ComputerMachinePassword -Server DC -Credential USER
+Reset-ComputerMachinePassword -Server DC  -Credential USER
+
+Command Prompt
+Netdom resetpwd /Server:DomainController /UserD:Administrator /PasswordD:Password
+
+Servers:
+
+
+
+Testing
+Test-ComputerSecureChannel -Repair -Credential USER
+nltest /sc_verify:DOMAIN
+
+
+
+
+https://theitbros.com/fix-trust-relationship-failed-without-domain-rejoining/

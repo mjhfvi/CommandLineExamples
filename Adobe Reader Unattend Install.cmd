@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Adobe\"Adobe Acrobat"\AcroRdrDC1901220034_en_US.exe /sAll

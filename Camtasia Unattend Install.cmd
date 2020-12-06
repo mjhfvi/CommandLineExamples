@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\"TechSmith - SnagIT Camtasia"\Camtasia\"Windows Version"\camtasia_2019.exe /quiet 

@@ -1,0 +1,2 @@
+xcopy \\SERVER\Software\Installations\Finance\SQLDeveloper\sqldeveloper-17.2.0.188.1159-no-jre\sqldeveloper\ c:\sqldeveloper\
+\\SERVER\Software\Installations\Java\jdk-8u144-windows-x64.exe /s

@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\"Visual Assist"\VA_X_Setup2238_2.exe /S

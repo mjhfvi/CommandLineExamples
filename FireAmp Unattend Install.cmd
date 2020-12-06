@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\FireAmp\3D_Clients_FireAMPSetup.exe /S

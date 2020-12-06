@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\"ImDisk Virtual Disk Driver"\imdiskinst.exe -y

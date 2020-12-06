@@ -1,0 +1,2 @@
+\\SERVER\Software\Installations\Cisco\AnyConnect\anyconnect-win-4.5.05030-core-vpn-predeploy-k9.msi /qb
+xcopy \\SERVER\Software\Installations\Cisco\AnyConnect\Settings\preferences.xml %LOCALAPPDATA%\Cisco\"Cisco AnyConnect Secure Mobility Client"\

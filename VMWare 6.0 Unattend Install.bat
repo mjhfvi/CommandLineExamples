@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\VMWare\6.0\VMware-viclient-all-6.0.0-5112508.exe /S

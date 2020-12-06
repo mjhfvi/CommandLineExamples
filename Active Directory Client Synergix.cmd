@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\"Active Directory Client Extensions (ADCE)"\ADCE.msi -qb

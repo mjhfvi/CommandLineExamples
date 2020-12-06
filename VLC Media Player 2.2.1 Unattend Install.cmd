@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\VLC\vlc-2.2.1-win32.exe /S /NCRC

@@ -1,0 +1,1 @@
+cscript.exe \\SERVER\Software\Scripts\IT\LoginScript\AddPrinters.vbs

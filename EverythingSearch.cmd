@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Everything-1.4.1.928.x64-Setup /q

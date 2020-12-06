@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Zip\winrar-x64-571.exe /S

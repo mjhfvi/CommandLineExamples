@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\"PuTTy Package"\"PuTTy Package.msi" /qb

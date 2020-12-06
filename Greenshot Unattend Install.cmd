@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Greenshot-INSTALLER-1.2.10.6-RELEASE.exe /VERYSILENT

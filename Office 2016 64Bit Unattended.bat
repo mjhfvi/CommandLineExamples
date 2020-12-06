@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Microsoft\OfficeAllVersions\Office2016\SW_DVD5_Office_Professional_Plus_2016_64Bit_English_MLF_X20-42432\setup /adminfile \\SERVER\Software\Installations\Microsoft\OfficeAllVersions\Office2016\SW_DVD5_Office_Professional_Plus_2016_64Bit_English_MLF_X20-42432\unattended.MSP
