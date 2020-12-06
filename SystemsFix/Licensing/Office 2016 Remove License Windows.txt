@@ -1,0 +1,2 @@
+reg delete HKLM\SOFTWARE\Microsoft\Office\16.0\Common\OEM /f
+reg delete HKLM\SOFTWARE\Wow6432Node\Microsoft\Office\16.0\Common\OEM /f

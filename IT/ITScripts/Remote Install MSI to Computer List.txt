@@ -1,0 +1,1 @@
+D:\SysInternalsSuite\psexec  @ComputersList.txt -u "USER" -p "Password" msiexec.exe /i "path + software"

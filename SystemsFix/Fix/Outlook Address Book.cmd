@@ -1,0 +1,1 @@
+rd "%localappdata%\Microsoft\Outlook\Offline Address Books" /s /q

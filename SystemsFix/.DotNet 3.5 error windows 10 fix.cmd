@@ -1,0 +1,1 @@
+dism /online /add-package /packagepath:\\SERVER\DEPOT\microsoft-windows-netfx3-ondemand-package.cab

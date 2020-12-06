@@ -1,0 +1,2 @@
+slmgr.vbs /ipk LICENSE-KEY
+slmgr.vbs /ato

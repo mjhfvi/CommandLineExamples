@@ -1,0 +1,1 @@
+cscript "%ProgramFiles%\Microsoft Office\Office16\OSPP.VBS" /inpkey:LICENSE-KEY

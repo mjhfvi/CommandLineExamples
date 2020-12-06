@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Dev\Rational\Cimatron_Tools\Result\cimatron_tools.exe

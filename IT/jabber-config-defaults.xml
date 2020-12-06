@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<Jabber>
+	<!-- Desktop share -->
+	<userConfig name="EnableP2PDesktopShare" value="TRUE"/>
+	<userConfig name="MaxNumberOfP2PDesktopShareParticipantsInGroupChat" value="10"/>
+	<userConfig name="EnableP2PDesktopShareOverEdge" value="FALSE"/>
+	<userConfig name="EnableReverseConnectionForP2PDesktopShare" value="FALSE"/>
+	<userConfig name="PreferP2PDesktopShare" value="FALSE"/>
+	<userConfig name="pChatShare" value="TRUE"/>
+	<userConfig name="EnableSelectScreenToShare" value="TRUE"/>
+	<userConfig name="ScreenShareAuditMessages" value="FALSE"/>
+	<!-- Telephony -->
+	<userConfig name="EnableHardwareAcceleratedVideoRendering" value="TRUE"/>
+	<userConfig name="enablemediastatistics" value="TRUE"/>
+	<userConfig name="ShowCallAlerts" value="TRUE"/>
+	<userConfig name="DNDHideAlerts" value="TRUE"/>
+	<userConfig name="DNDMuteRingtones" value="TRUE"/>
+	<userConfig name="EnableSoftphoneWithVXMEServerHealth" value="FALSE"/>
+	<userConfig name="EnableBridgeConferencing" value="FALSE"/>
+	<userConfig name="UseBridgeForConferenceCalls" value=""/>
+	<userConfig name="UserBridgeUriAdmin" value=""/>
+	<userConfig name="UserBridgeUri" value=""/>
+	<userConfig name="UserBridgePin" value=""/>
+	<userConfig name="MakeCallHotKey" value="TRUE"/>
+	<userConfig name="DefaultMakeCallHotKeyTrueValue" value="Ctrl+Shift+J"/>
+	<userConfig name="ChatTelephonyEscalationLimit" value="25"/>
+	<userConfig name="PersistentChatTelephonyEnabled" value="true"/>
+	<userConfig name="SystemIdleDuringCalls" value="FALSE"/>
+	<userConfig name="LinesNumber" value=""/>
+	<!-- Options -->
+	<userConfig name="set_status_away_on_inactive" value="TRUE"/>
+	<userConfig name="set_status_inactive_timeout" value="15"/>
+	<userConfig name="set_status_away_on_lock_os" value="TRUE"/>
+	<userConfig name="start_client_on_start_os" value="FALSE"/>
+	<userConfig name="contact_list_request" value="PromptAll"/>
+	<userConfig name="show_contact_list_request" value="true"/>
+	<userConfig name="permission_to_view_my_profile" value="All"/>
+	<userConfig name="show_permission_to_view_my_profile" value="TRUE"/>
+	<userConfig name="show_options_video_tab" value="TRUE"/>
+	<userconfig name="RingtoneName" value="Sunrise"/>
+	<userconfig name="PlayRingerOnAllDevices" value="TRUE"/>
+	<userconfig name="RingerVolumeForAllDevices" value="75"/>
+	<userConfig name="SwapDisplayNameOrder" value="True"/>
+	<userConfig name="ChatAlert" value="Classic"/>
+	<userConfig name="PersistIMNotifications" value="False"/>
+	<!-- Exchange -->
+	<userConfig name="SaveChatHistoryToExchangeOperationMode" value="DisabledByPolicy"/>
+	<userConfig name="EnableSaveChatHistoryToExchange" value="FALSE"/>
+	<userConfig name="ExchangeAuthenticateWithSystemAccount" value="TRUE"/>
+	<userConfig name="archive_im_on_exchange" value="TRUE"/>
+	<userConfig name="ExchangeDomain" value=""/>
+  
+	<!-- Policies -->
+	<userConfig name="GroupChatAdminSetAutoAcceptInvite" value="FALSE"/>
+	<userConfig name="GroupChatUserSetAutoAcceptInvite" value="TRUE"/>
+	<userConfig name="ShowGroupChatInvitationOption" value="TRUE"/>
+	<userConfig name="screen_capture_enabled" value="TRUE"/>
+	<userConfig name="file_transfer_enabled" value="TRUE"/>
+	<userConfig name="imcatcher_disable" value="FALSE"/>
+	<userConfig name="support_aes_encoding" value="FALSE"/>
+	<userConfig name="support_ssl_encoding" value="TRUE"/>
+	<userConfig name="support_no_encoding" value="FALSE"/>
+	<userConfig name="enablebfcpvideodesktopshare" value="TRUE"/>
+	<userConfig name="automatic_update_enabled" value="TRUE"/>
+	<userConfig name="user_editable_profile" value="TRUE"/>
+	<userConfig name="broadcast_messages_enabled" value="TRUE"/>
+	<userConfig name="broadcast_to_directory_group_enabled" value="TRUE"/>
+	<userConfig name="im_logging_enabled" value="TRUE"/>
+	<userConfig name="telephony_p2p_enabled" value="FALSE"/>
+	<userConfig name="telephony_enabled" value="TRUE"/>
+	<userConfig name="voicemail_enabled" value="TRUE"/>
+	<userConfig name="meetings_enabled" value="TRUE"/>
+	<userConfig name="presence_enabled" value="TRUE"/>
+	<userConfig name="im_enabled" value="TRUE"/>
+	<userConfig name="password_rule_ready" value="FALSE"/>
+	<userConfig name="password_changeable" value="FALSE"/>
+	<userConfig name="search_group_presence_enabled" value="TRUE"/>
+	<userConfig name="sort_contacts_alphabetically_enabled" value="FALSE"/>
+	<userConfig name="showOfflineContacts" value="TRUE"/>
+	<userConfig name="synch_meeting_calendar_disabled" value="TRUE"/>
+	<userConfig name="customize_presence_server" value="TRUE"/>
+	<userConfig name="im_cutandpaste_enabled" value="TRUE"/>
+	<userConfig name="explicit_video_enablement" value="FALSE"/>
+	<userConfig name="audio_video_portswapping_enabled" value="FALSE"/>
+	<userConfig name="conference_enabled" value="TRUE"/>
+	<userConfig name="network_adaption_enabled" value="TRUE"/>
+	<userConfig name="network_adaption_initial_bitrate_value" value="512"/>
+	<userConfig name="EnableLocalAddressBookSearch" value="True"/>
+	<userConfig name="EnableTelProtocolPopupWindow" value="True"/>
+	<userConfig name="EnableForensicsContactData" value="True"/>
+	<userConfig name="CiscoTelProtocolPermissionEnabled" value="True"/>
+	<userConfig name="ClickToCallProtocolPermissionEnabled" value="True"/>
+	<userConfig name="ClickToCallWithEditProtocolPermissionEnabled" value="True"/>
+	<userConfig name="ServicesDomainSsoEmailPrompt" value="OFF"/>
+	<userConfig name="AutoUploadPrt" value="True"/>
+	<userConfig name="EnablePRT" value="True"/>
+	<userConfig name="EnablePRTEncryption" value="False"/>
+	<userConfig name="MakeUsernameReadOnly" value="False"/>
+	<userConfig name="UseSystemLanguage" value="True"/>
+	<userConfig name="IP_MODE" value="Dual_Stack"/>
+	<userConfig name="Recent_Chats_Enabled" value="TRUE"/>
+	<userConfig name="DiagnosticsToolEnabled" value="True"/>
+  
+  <userConfig name="RemoteDestinationEditingWithMultipleDevices" value ="True"/>
+	<!-- Meetings -->
+	<userConfig name="MeetingUpgradeServerUrl" value="https://akamaicdn.webex.com/jabberUpgrade/upgrade.php"/>
+	<userConfig name="meetingservice_trylogincredentials" value="TRUE"/>
+	<userConfig name="pChatMeeting" value="TRUE"/>
+	<userConfig name="CalendarAutoRefreshTime" value="0"/>
+	<userConfig name="cloud_desktop_share_upgrade_api_server_url" value="https://aimprods03.webex.com/aimprods03"/>
+	
+	<!-- Hub -->
+	<userConfig name="DockedWindowVisible" value="TRUE"/>
+	<userConfig name="HubVisible" value="TRUE"/>
+	<userConfig name="ForceFontSmoothing" value="TRUE"/>
+	<userConfig name="RobustShutdown" value="FALSE"/>
+	<userConfig name="AllowUserCustomTabs" value="TRUE"/>
+	<userConfig name="DockedWindowPosition" value="TopCenter"/>
+	<userConfig name="JawsSounds" value="TRUE"/>
+    
+	<!-- promotion -->
+	<userConfig name="EnablePromoteMobile" value="FALSE"/>
+	<userConfig name="PromotionWelcomeText" value="Jabber mobile App is available! %0d%0aYou can use Jabber anywhere at anytime."/>
+	<userConfig name="AndroidDownloadURL" value="https://play.google.com/store/apps/details?id=com.cisco.im"/>
+	<userConfig name="IOSDownloadURL" value="https://itunes.apple.com/app/cisco-jabber/id467192391"/>
+
+
+	<!-- Directory -->
+	<userConfig name="UseSIPURIToResolveContacts" value="FALSE"/>
+	<userConfig name="MinimumCharacterQuery" value="3"/>
+	<userConfig name="ForceC2XDirectoryResolution" value="TRUE"/>
+	<!-- Presence -->
+	<userConfig name="PresenceServer" value=""/>
+	<userConfig name="PresenceBackUpServer" value=""/>
+	<userConfig name="PresenceServerType" value=""/>
+	<userConfig name="PresenceDomain" value=""/>
+	<userConfig name="LoginResource" value="multiResource"/>
+	<userConfig name="SsoOrgDomain" value=""/>
+	<userConfig name="SsoPartner" value=""/>
+	
+	<!-- InstantMessaging -->
+	<userConfig name="incoming_chat_font_size" value="2"/>
+	<userConfig name="incoming_chat_font_unit" value="pt"/>
+	<userConfig name="incoming_chat_font_name" value="Segoe UI"/>
+	<userConfig name="incoming_chat_font_color" value="0x1A1A1A"/>
+	<userConfig name="incoming_chat_font_bold" value="FALSE"/>
+	<userConfig name="incoming_chat_font_italic" value="FALSE"/>
+	<userConfig name="incoming_chat_font_underline" value="FALSE"/>
+	<userConfig name="outgoing_chat_font_size" value="2"/>
+	<userConfig name="outgoing_chat_font_unit" value="pt"/>
+	<userConfig name="outgoing_chat_font_name" value="Segoe UI"/>
+	<userConfig name="outgoing_chat_font_color" value="0x1A1A1A"/>
+	<userConfig name="outgoing_chat_font_bold" value="FALSE"/>
+	<userConfig name="outgoing_chat_font_italic" value="FALSE"/>
+	<userConfig name="outgoing_chat_font_underline" value="FALSE"/>
+	<userConfig name="enable_reformating_incoming_message" value="FALSE"/>
+	<userConfig name="imservice_play_notification_on_any_im_config_key" value="TRUE"/>
+	<userConfig name="imservice_play_notification_on_first_im_config_key" value="FALSE"/>
+	<userConfig name="imservice_play_notification_on_sending_im_config_key" value="FALSE"/>
+	<userConfig name="imservice_play_notification_on_chat_messages" value="TRUE"/>
+	<userConfig name="imservice_play_notification_on_chat_room_messages" value="TRUE"/>
+	<userConfig name="imservice_play_notification_on_chat_room_filter_matches" value="TRUE"/>
+	<userConfig name="imservice_mute_when_on_a_call" value="TRUE"/>
+	<userConfig name="imservice_mute_when_in_a_meeting" value="FALSE"/>
+	<userConfig name="imservice_alert_notification_on_chat_messages" value="TRUE"/>
+	<userConfig name="imservice_alert_notification_on_chat_room_messages" value="TRUE"/>
+	<userConfig name="imservice_alert_notification_on_chat_room_filter_matches" value="TRUE"/>
+	<userConfig name="imservice_alert_notification_on_group_chat_invites" value="FALSE"/>
+	<userConfig name="EnableSaveChatToFile" value="TRUE"/>
+	<userConfig name="EnableAutosave" value="FALSE"/>
+	<userConfig name="ShowIMPaneRoster" value="FALSE"/>
+	<userConfig name="RestoreChatOnLogin" value="FALSE"/>
+	<userConfig name="ActiveIMConversationsOnLogOff" value=""/>
+	<userConfig name="MaxNumberOfReopenedConversations" value="30"/>
+	<userConfig name="ForbidJawsReadsTimestamps" value="FALSE"/>
+
+  <userConfig name ="EnableInlineImages" value="TRUE"/>
+  <userConfig name ="AutoAcceptFileTransfer" value="FALSE"/>
+  <userConfig name ="AutoAcceptImage" value="TRUE"/>
+  <userConfig name ="ShowScreenCaptureButton" value="TRUE"/>
+  <userConfig name ="SaveConversationsOnClose" value="DEFAULT"/>
+	<!-- VoicemailService -->
+	<userConfig name="VVM_Mailstore_CookieCacheDir" value=""/>
+	<userConfig name="VVM_Mailstore_PollingInterval" value="60"/>
+	<!-- Contacts -->
+	<userConfig name="ShowContactPictures" value="TRUE"/>
+	<userConfig name="VideoCallAlwaysOnTop" value="FALSE"/>
+	<userConfig name="AlertOnAvailableEnabled" value="TRUE"/>
+	<userConfig name="EnableAccessoriesManager" value="TRUE"/>
+	<userConfig name="BlockAccessoriesManagerPlugins" value=""/>
+	<userConfig name="ContactCardOnHover" value="TRUE"/>
+  
+	<!-- Telemetry -->
+	<userConfig name="TelemetryEnabled" value="TRUE"/>
+	<userConfig name="TelemetryEnabledUserPreference" value="TRUE"/>
+	<!-- Location -->
+	<userConfig name="Location_Enabled" value="TRUE"/>
+	<userConfig name="Location_Mode" value="Enabled"/>
+	<userConfig name="Location_Matching_Mode" value="MacAddressOnly"/>
+  
+	<userConfig name="EnableChats" value="TRUE"/>
+	<userConfig name="ShowRecentsTab" value="TRUE"/>
+  
+	<!-- Show Errors MessageBox for Screen Reader-->
+	<userConfig name="ScreenReaderShowErrors" value="TRUE"/>
+  
+</Jabber>

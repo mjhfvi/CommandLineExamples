@@ -1,0 +1,6 @@
+SW_DVD5_Visual_Studio_Ent_2017_MultiLang_-2_Lang_Pk_MLF_X21-42637.EXE --layout C:\VSOffline --lang en-US --includeRecommended --includeOptional --add Microsoft.VisualStudio.Workload.NativeDesktop
+
+
+
+
+--productKey --passive

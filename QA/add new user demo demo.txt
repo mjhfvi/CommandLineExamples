@@ -1,0 +1,4 @@
+net user demo demo /add
+net Localgroup Administrators demo /add
+regedit.exe /S  "\\SERVER\DEPOT\Scripts\QA\Auto Login demo User.reg"
+regedit.exe /S  "\\SERVER\DEPOT\Scripts\QA\Set Ready.reg"

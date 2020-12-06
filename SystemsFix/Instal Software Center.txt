@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\IT\"SCCM client"\ccmsetup.exe" /runservice /RunFromTemp  CLIENT\CCMSETUP.EXE  /MP:SERVER /LOGON SMSSITECODE="AUTO"

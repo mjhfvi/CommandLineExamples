@@ -1,0 +1,2 @@
+ROBOCOPY "\\SERVER\Software\Scripts\Development\TFS\Team Foundation" "C:\Users\%username%\AppData\Local\Microsoft\Team Foundation" /E /COPY:DAT
+regedit.exe /S \\SERVER\Software\Scripts\Development\TFS\AddTeamProjectServer.reg

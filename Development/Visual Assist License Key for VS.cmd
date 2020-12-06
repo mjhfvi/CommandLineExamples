@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Dev\"Visual Assist"\VA_X_Setup2089.exe /S /LU "LICENSE-KEY"

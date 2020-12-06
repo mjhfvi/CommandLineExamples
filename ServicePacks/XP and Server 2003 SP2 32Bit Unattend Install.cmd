@@ -1,0 +1,1 @@
+\\SERVER\Public\Installations\Microsoft\Service_Pack\WindowsXP-KB936929-SP3-x86-ENU.exe  /quiet /forcerestart

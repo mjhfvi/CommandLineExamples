@@ -1,0 +1,5 @@
+<LocationServerMappings>
+  <ServerMapping location="http://il-air-dev01:8080/tfs/TeamFoundation/Administration/v3.0/LocationService.asmx" guid="e0f62bef-b2af-4396-a1a5-d2e599074de0" />
+  <ServerMapping location="http://il-air-dev01:8080/tfs/Services/v3.0/LocationService.asmx" guid="a051b8b2-8ffe-4ad3-9364-9cebb9191653" />
+  <ServerMapping location="http://il-air-dev01:8080/tfs/defaultcollection/Services/v3.0/LocationService.asmx" guid="a051b8b2-8ffe-4ad3-9364-9cebb9191653" />
+</LocationServerMappings>

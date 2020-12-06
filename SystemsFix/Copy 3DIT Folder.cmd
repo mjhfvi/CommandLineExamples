@@ -1,0 +1,1 @@
+xcopy \\SERVER\Software\Installations\3DIT c:\3DIT\ /e

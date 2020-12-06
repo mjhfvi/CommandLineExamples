@@ -1,0 +1,68 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\International]
+"Locale"="0000040D"
+"LocaleName"="he-IL"
+"s1159"="AM"
+"s2359"="PM"
+"sCountry"="Israel"
+"sCurrency"="₪"
+"sDate"="/"
+"sDecimal"="."
+"sGrouping"="3;0"
+"sLanguage"="HEB"
+"sList"=","
+"sLongDate"="dddd dd MMMM yyyy"
+"sMonDecimalSep"="."
+"sMonGrouping"="3;0"
+"sMonThousandSep"=","
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="dd/MM/yyyy"
+"sThousand"=","
+"sTime"=":"
+"sTimeFormat"="HH:mm:ss"
+"sShortTime"="HH:mm"
+"sYearMonth"="MMMM yyyy"
+"iCalendarType"="1"
+"iCountry"="972"
+"iCurrDigits"="2"
+"iCurrency"="2"
+"iDate"="1"
+"iDigits"="2"
+"NumShape"="1"
+"iFirstDayOfWeek"="6"
+"iFirstWeekOfYear"="0"
+"iLZero"="0"
+"iMeasure"="0"
+"iNegCurr"="2"
+"iNegNumber"="1"
+"iPaperSize"="9"
+"iTime"="1"
+"iTimePrefix"="0"
+"iTLZero"="1"
+
+[HKEY_CURRENT_USER\Control Panel\International\Geo]
+"Nation"="244"
+
+[HKEY_CURRENT_USER\Control Panel\International\User Profile]
+"Languages"=hex(7):65,00,6e,00,2d,00,55,00,53,00,00,00,68,00,65,00,00,00
+"ShowAutoCorrection"=dword:00000001
+"ShowTextPrediction"=dword:00000001
+"ShowCasing"=dword:00000001
+"ShowShiftLock"=dword:00000001
+"UserLocaleFromLanguageProfileOptOut"=dword:00000001
+
+[HKEY_USERS\.DEFAULT\Keyboard Layout\Preload]
+"1"="00000409"
+"2"="0000040d"
+
+[HKEY_CURRENT_USER\Control Panel\International\User Profile\en-US]
+"CachedLanguageName"="@Winlangdb.dll,-1121"
+"0409:00000409"=dword:00000001
+
+[HKEY_CURRENT_USER\Control Panel\International\User Profile\he]
+"CachedLanguageName"="@Winlangdb.dll,-1202"
+"040D:0002040D"=dword:00000001
+

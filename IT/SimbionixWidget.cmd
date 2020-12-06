@@ -1,0 +1,1 @@
+\\SERVER\Versions\MentorLearn\SimbionixWidget\1.0.0.1\SimbionixWidget.msi /qn

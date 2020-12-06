@@ -1,0 +1,1 @@
+"\\SERVER\Software\Installations\Microsoft\Visual Studio\Visual Studio Professional 2015\vs_professional.exe" /AdminFile "\\SERVER\Software\Microsoft\Visual Studio\Visual Studio Professional 2015\VS2015.xml" /Passive /NoRestart /ProductKey LICENSE-KEY

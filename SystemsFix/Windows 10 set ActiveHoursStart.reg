@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
+"DisableDualScan"=dword:00000001
+"WUServer"="SERVER"
+"WUStatusServer"="SERVER"
+"AcceptTrustedPublisherCerts"=dword:00000001
+"SetActiveHours"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
+"UseWUServer"=dword:00000001
+

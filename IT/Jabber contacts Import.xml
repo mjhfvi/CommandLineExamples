@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<buddylist>
+	<group>
+		<gname>GroupName</gname>
+		<user>
+			<uname>UserEmail@DOMIAN.Com</uname>
+			<fname>UserName</fname>
+		</user>
+	</group>
+	<group>
+		<gname>GroupName</gname>
+		<user>
+			<uname>UserEmail@DOMIAN.Com</uname>
+			<fname>UserName</fname>
+		</user>
+	</group>
+</buddylist>

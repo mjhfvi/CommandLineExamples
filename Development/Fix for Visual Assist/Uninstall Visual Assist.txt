@@ -1,0 +1,4 @@
+%APPDATA%\VisualAssist
+
+
+reg delete  Registry_key_path /v "HKEY_CURRENT_USER\Software\Whole Tomato" /f

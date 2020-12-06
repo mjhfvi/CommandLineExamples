@@ -1,0 +1,1 @@
+\\ilient-hq.local\Public\Installations\Microsoft\DotNet\dotNetFx40_Full_x86_x64.exe /q

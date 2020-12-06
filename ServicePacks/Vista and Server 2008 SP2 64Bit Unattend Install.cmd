@@ -1,0 +1,1 @@
+\\SERVER\Public\Installations\Microsoft\Service_Pack\Windows6.0-KB948465-X64.exe /quiet /forcerestart

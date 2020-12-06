@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Unity\UnitySetup64-2017.1.1f1

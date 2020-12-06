@@ -1,0 +1,1 @@
+netsh advfirewall firewall add rule name="Allow from Solarwinds Website" dir=in action=allow protocol=ANY remoteip=10.20.1.149

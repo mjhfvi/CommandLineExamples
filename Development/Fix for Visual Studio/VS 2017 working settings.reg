@@ -1,0 +1,553 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15]
+"InstalledBuildNo"="2248"
+"InstalledDir"="c:\\users\\cohent\\appdata\\local\\microsoft\\visualstudio\\15.0_187bbdd6\\extensions\\rqnonhov.yxw\\"
+"newKey"="Yes"
+"DefeatVsExtensionAutoUpdate"="10.9.2248.0"
+"lDBDayCount"="0"
+"HistoryCheck"="2019.01.19"
+"checkVersionDate"="01/16/2019"
+"IDENavigationBarReminder"="2018.12.27"
+"VaViewInstalled"="1"
+"OutlineInstalled"="1"
+"checkVersionLast"=dword:000008fe
+"Platform"="Win32"
+"Platforms"="Win32;x64;"
+"AboutInfo"="License: Jerry.Foglesong@3DSystems.Com (54-user license) Support ends 2017.12.22
+VA_X.dll file version 10.9.2248.0  built 2017.12.16
+DevEnv.exe version 15.9.28307.222 Community
+msenv.dll version 15.0.28307.208
+Comctl32.dll version 6.10.17763.194
+Windows 10 10.0 Build 17763 
+8 processors (x86-64, WOW64)
+Language info: 1252, 0x409
+"
+"InitColoringOptions"="No"
+"ResetOptions"="No"
+"FastProjectOpen2"=dword:00000000
+"SurroundSelection"=dword:00000001
+"UnderlineSpellingErrors"=dword:00000001
+"RTFCopy"=hex:00
+"ColorPrinting"=hex:00
+"EnhancedFormat"=hex:01
+"MiniHelpAtTop"=hex:01
+"HideContextDefWindow"=hex:00
+"BoldBraceMatching"=hex:01
+"AutoMatch"=hex:01
+"CorrectCase"=hex:01
+"OneStepHelp"=hex:01
+"AsciiWin32Defs"=hex:01
+"MakeSuggestions"=hex:01
+"ScopedSuggestions"=hex:01
+"OverrideRepairCase1"=hex:01
+"NullptrSuggestionDefault1"=hex:01
+"NullSuggestionDefault"=hex:01
+"AddIncludePreferShortestRelativePath"=hex:01
+"FormatDoxygenTags"=hex:01
+"NewFileOpen"=hex:01
+"EnableDev11Theme"=hex:01
+"BrowserAppCommands"=dword:00000001
+"LineCommentSlashCount"=dword:00000002
+"EnableUnrealEngineC++"=hex:00
+"TabInvokesIntellisense"=hex:00
+"smartPaste"=hex:01
+"AutoBackup"=hex:00
+"#ifdef string"="_DEBUG"
+"FnParenGap"=dword:00000000
+"WorkspaceItemCount"=dword:0000000a
+"ClipboardItemCount"=dword:0000000a
+"SkipLocalMacros"=hex:00
+"MouseOvers"=hex:00
+"vs8Tooltips"=hex:00
+"EnableIconTheme"=hex:01
+"MultipleProjSupport"=hex:01
+"KeepBookmarks"=hex:00
+"OnFocusCycleThread"=hex:00
+"ModThread"=hex:00
+"DefGuess2"=hex:00
+"AggressiveFileMatch"=hex:01
+"FixPtrOperators"=hex:01
+"ShowScope"=hex:01
+"BoldNonInheritedMembers"=hex:01
+"ShrinkMemberListboxes"=hex:01
+"MRUOptions"=dword:00000001
+"HCBOptions"=dword:00000000
+"CompleteWithTab"=hex:01
+"CompleteWithReturn"=hex:01
+"CompleteWithAny"=hex:00
+"CompleteWithAnyVsOverride"=hex:00
+"EnableProjectSymbolFilter"=hex:01
+"EnableFsisAltDir"=hex:01
+"ShowScopeTooltips"=hex:00
+"SimpleWordMatchHighlights"=hex:00
+"ForceCaseInsensitiveFilters"=hex:01
+"ClassMemberNamingBehavior"=dword:00000001
+"DimmedMenuitemOpacity"=dword:0000003c
+"GotoInterfaceBehavior"=dword:00000002
+"VsThemeColorBehavior"=dword:00000000
+"EnhColorListboxes"=hex:00
+"EnumerateVsLangReferences2"=hex:01
+"RestrictVaToPrimaryFileTypes"=hex:01
+"RestrictVaListboxesToC/C++"=hex:01
+"AugmentParamInfo"=hex:01
+"PartialSnippetShortcutMatches"=hex:00
+"FindRefsDisplayIncludes"=hex:01
+"FindRefsDisplayUnknown"=hex:01
+"UsePreviewTab"=hex:01
+"AutoListIncludes"=hex:01
+"UpdateHcbOnMouseOver"=hex:01
+"AllowScopeFallback"=hex:01
+"CacheFileFinderData"=hex:01
+"FindRefsAlternateSharedFileBehavior"=hex:00
+"ParseLocalTypesForGotoNav"=hex:01
+"EnableWin8ColorHook"=hex:01
+"EnableNuGetRepositoryLookup2"=hex:01
+"ParseNuGetRepositoryFiles2"=hex:01
+"EnableDebuggerStepFilter"=hex:01
+"RoamingStepFilterSolutionConfig"=hex:01
+"EnhColorSourceWindows"=hex:01
+"EnhColorObjectBrowser"=hex:00
+"EnhColorTooltips"=hex:00
+"EnhColorViews"=hex:00
+"EnhColorFindResults"=hex:00
+"AutoFormatRefactorings"=hex:01
+"EnhColorWizardBar"=hex:00
+"LocalSymbolsInBold"=hex:00
+"GiveCommentsPrecedence"=hex:00
+"StableSymbolsInItalics"=hex:01
+"ListNonInheritedMembersFirst"=hex:00
+"DisplayXSuggestions"=dword:00000004
+"SupressUnderlines"=hex:00
+"ImportTimeout"=dword:00000014
+"rapidFire"=hex:00
+"ColumnIndicatorDisplay"=hex:00
+"EnableParameterHelp"=hex:01
+"EnableAutoComplete"=hex:01
+"EnableAutoComments"=hex:01
+"ColumnIndicatorColumn"=dword:0000004b
+"CodeTemplateTooltips"=hex:01
+"AutoM_Insert"=hex:01
+"UnderlineTypos"=hex:00
+"ContextPrefix"=hex:00
+"ShowBraceMismatches"=hex:01
+"MarginContextMenu"=hex:00
+"ContextWindowWidth"=dword:000000c8
+"EnablePasteMenu"=hex:01
+"SortDefList"=dword:00000001
+"ExtHeader"=".h;.hh;.hpp;.hxx;.ipp;.tlh;.inl;.p;.rh;.dh;.ih;.ph;.hm;"
+"ExtSource"=".c;.cpp;.cc;.cxx;.tli;"
+"ExtResource"=".rc;.rc2;"
+"ExtIdl"=".idl;.odl;"
+"ExtBinary3"=".exe;.dll;.obj;.tlb;.pkg;.ocx;.olb;.netmodule;.winmd;"
+"ExtJava"=".jav;.java;.jsl;"
+"ExtensionsToIgnore3"=""
+"ExtHtml3"=".htm;.html;.shtml;"
+"ExtVB3"=".vb;.dsm;.bas;.cls;.frm;.dob;"
+"ExtPHP"=".php;"
+"ExtJS"=".js;"
+"ExtCS2"=".cs;.csx;"
+"ExtPerl"=".pl;.cgi;"
+"ExtVbs"=".vbs;.svb;"
+"ExtAsp2"=".asp;.aspx;.hta;.asa;.asax;.ascx;.ashx;.asmx;.master;.vbhtml;.cshtml;"
+"ExtXml2"=".xml;.resx;.config;.manifest;"
+"ExtPlainText"=".txt;.log;.dat;.ini;.reg;.rgs;.bak;.inf;.def;.pkgdef;.mak;.mac;.ctc;.sln;.bat;.cmd;.ps1;.va;"
+"ExtXaml"=".xaml;"
+"UseDefaultIntellisense"=hex:01
+"SurroundSelectionCharList"="'/*{#("
+"DisplayFilteringToolbar"=hex:01
+"AllowShorthand"=hex:01
+"AllowAcronyms"=hex:01
+"UseSystemLocale"=dword:00000000
+"LimitMacroParsing"=hex:01
+"LimitSysMacroParsingV2"=hex:01
+"VaViewGotoDefinition"=hex:01
+"HighlightFindReferencesByDefault"=hex:00
+"BraceAutoInsertStyle"=dword:00000003
+"EnableTooltipsInFindResults"=hex:01
+"DisplayRefactorButton"=hex:01
+"IncludeDefaultParameterValues"=hex:01
+"ExtensionlessFileIsHeader"=hex:00
+"MarkCurrentLine"=hex:00
+"CurrentLineMarkerStyle"=dword:00000001
+"CurrentLineVisualStyle"=dword:00000002
+"CheckForLatestVersion"=hex:00
+"CheckForLatestBeta"=hex:00
+"RecommendUpdateAfterLicenseExpires"=hex:00
+"DontInsertSpaceAfterComment"=hex:00
+"ShowLineNumbersInFindRefResults"=hex:01
+"EnableStatusBarMessages"=hex:01
+"CloseSuggestionListOnExactMatch"=hex:00
+"MessageBoxFailureNotifications"=hex:01
+"DisplayCommentAndStringReferences"=hex:00
+"EncFieldPublicAccessors"=hex:01
+"EncFieldMoveVariable"=dword:00000000
+"DisplayWiderScopeReferences"=hex:01
+"DisplayReferencesFromAllProjects"=hex:00
+"RenameCommentAndStringReferences"=hex:00
+"RenameWiderScopeReferences"=hex:01
+"IncludeRefactoringInListboxes"=hex:01
+"AutoSizeListboxes"=hex:01
+"ParseFilesInDirectoryIfSolutionEmpty2"=hex:01
+"ParseFilesInDirectoryIfExternalFileOpened"=hex:00
+"ListboxFlags"=dword:00000000
+"MarkTextAfterFind"=hex:01
+"DisplayProjectNodesInReferencesResults"=hex:01
+"DisplayProjectNodesInRenameResults"=hex:01
+"EnableUiTomato"=hex:01
+"MethodsInFile_Regions"=hex:01
+"MethodsInFile_Scope"=hex:01
+"MethodsInFile_Defines"=hex:00
+"MethodsInFile_Properties"=hex:01
+"MethodsInFile_Members"=hex:00
+"MethodsInFile_Events"=hex:01
+"SuppressListboxes"=hex:00
+"PopulateFsisFilterWithEditorSelection"=hex:01
+"SelectImplementation"=hex:01
+"AutoHighlightReferences2"=hex:00
+"AutoHighlightReferencesEx"=hex:00
+"DisplayParamsInMethodsList"=hex:01
+"OptimizeRemoteDesktop"=hex:00
+"ReparseIfNeededMaxFileSize2"=dword:00000000
+"EnableSortLinesPrompt"=hex:01
+"ConcurrentParsing"=hex:01
+"DisplayHashtagXrefsInWindow"=hex:01
+"ClearNonSourceFileMatches"=hex:01
+"OfisTooltips"=hex:01
+"OfisIncludeSolution"=hex:01
+"OfisIncludePrivateSystem"=hex:01
+"OfisIncludeSystem"=hex:01
+"OfisIncludeExternal"=hex:01
+"OfisIncludeWindowList"=hex:00
+"FsisTooltips"=hex:01
+"BrowseMembersTooltips"=hex:01
+"FsisExtraColumns"=hex:00
+"MouseWheelCommands"=dword:00000000
+"MouseClickCommands"=dword:00000000
+"FixSmartPtrOperators"=hex:01
+"UseVASuggestionsInManagedCode"=hex:01
+"ExtendCommentsOnNewline"=hex:00
+"UseThemedCompletionBoxSelection2"=dword:fffffffe
+"MaximumScreenReparseLineCount"=dword:0000012c
+"LargeFileSizeThreshold"=dword:004c4b40
+"AddIncludeTokenStyle"=dword:00000000
+"CompletionOverwriteBehavior"=dword:00000000
+"SmartPointerSuggestionStyles"=dword:00000003
+"MethodsListNameFilter"=hex:01
+"UseOverrideKeywordInImplementInterface"=hex:01
+"DialogsStickToMonitor"=hex:01
+"DialogsFitIntoScreen"=hex:01
+"AllowUncPaths"=hex:01
+"AllowGotoOnDirtyFindRefsNav"=hex:00
+"CacheProjectInfo"=hex:01
+"TrackCaretVisibility"=hex:01
+"FunctionCallParens"="()"
+"ColorBuildOutput"=hex:01
+"ListBoxHeightInItems"=dword:00000009
+"InitialSuggestionBoxHeightInItems"=dword:00000005
+"ResizeSuggestionListOnUpDown"=hex:01
+"DismissSuggestionListOnUpDown"=hex:00
+"EnableFilterStartAndEndTokens"=hex:01
+"UseGotoRelatedForGoButton"=hex:00
+"LinesBetweenMethods"=dword:00000001
+"FindSimilarLocation"=hex:01
+"HashtagsGroupByFile"=hex:00
+"EditUserInputFieldsInEditor2"=hex:01
+"HashtagsMinTagLength"=dword:00000003
+"InsertOpenBraceOnNewLine"=hex:01
+"HashtagsIgnoreHexAlphaTags"=hex:01
+"SurroundWithSnippetOnChar"=hex:01
+"SurroundWithSnippetOnCharIgnoreWhitespace2"=hex:01
+"EnableEdMouseButtonHooks"=hex:01
+"HashtagsAllowHyphens"=hex:00
+"AddMissingDefaultSwitchCase"=hex:01
+"MoveTemplateImplToSourceInTwoSteps"=hex:01
+"DisplayGlobalHashtagMenuItems"=hex:00
+"SparseSysDbLoad2"=hex:00
+"VerifyDbOnLoad"=hex:01
+"NavBarContext_SingleScope"=hex:00
+"UseOldUncommentBehavior"=hex:00
+"SelectRecentItemsInNavigationDialogs"=hex:01
+"SmartSelectPeekDuration"=dword:00001388
+"SmartSelectEnableGranularStart"=hex:01
+"SmartSelectEnableWordStart"=hex:01
+"SmartSelectSplitWordByCase"=hex:00
+"SmartSelectSplitWordByUnderscore"=hex:00
+"DefaultAddIncludeDelimiter"="\\"
+"IVMOptions"=dword:00000000
+"GotoOverloadResolutionMode"=dword:00000002
+"GotoRelatedOverloadResolutionMode"=dword:00000002
+"CreationTemplateFunctionNames"=""
+"GotoRelatedParameterTrimming"=hex:01
+"FindRefsFlagCreation"=hex:01
+"IncludeDirectiveCompletionLists"=hex:01
+"ForceUseOfOldVcProjectApi"=hex:00
+"EnhanceMacroParsing"=hex:00
+"ProgramFilesDirsAreSystemIncludes"=hex:01
+"OfisAugmentSolutionFileList"=hex:00
+"AugmentHiddenExtensions"=hex:01
+"OfisIncludeHiddenExtensions"=hex:00
+"ForceVs2017ProjectSync"=hex:00
+"EnableMixedDpiScalingWorkaround"=hex:01
+"ForceVcpkgInclude"=hex:01
+"EnableVcProjectSync"=hex:01
+"WarnOnLoadOfPathWithReversedSlashes"=hex:01
+"JavaDocStyle"=dword:00000001
+"AvoidDuplicatingTypeWithConvert"=hex:01
+"OutlineAutoUpdate"=hex:01
+"OutlineAllowDrag"=hex:01
+"OutlineDisplayTooltips"=hex:01
+"OutlineAutoExpand"=hex:00
+"OutlineStripScopeFromGroupedMethods"=hex:01
+"OutlineFilterFlags"=dword:fffffffb
+"GOTO_MRU_2_0"=""
+"LastTrialDate"="9"
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections]
+"EnableCodeInspections"=dword:00000000
+"EnableWhileDebugging"=dword:00000000
+"ShowScrollbarMargin"=dword:00000001
+"UnderlineCodeIssues"=dword:00000001
+"AdditionalCheckerOptions"=""
+"ShowCheckNameInTooltip"=dword:00000000
+"AutoReparse"=dword:00000001
+"ShowQuickActionsOnCaret"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers]
+"EnableUnevaluatedCheckers"=dword:00000000
+"EnableWarnings"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\ContainerSizeEmpty]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\LoopConvert]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\MakeShared]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\MakeUnique]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\PerformanceForRangeCopy]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\RawStringLiteral]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\RedundantControlFlow]
+"Level"=dword:00000500
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\RedundantSmartptrGet]
+"Level"=dword:00000500
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\RedundantVoidArg]
+"Level"=dword:00000500
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\ShrinkToFit]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\UniqueptrDeleteRelease]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\UnnecessaryCopyInitialization]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\UseAuto]
+"Level"=dword:00000500
+"Enabled"=dword:00000001
+"Option.RemoveStars"="0"
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\UseBoolLiterals]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\UseEmplace]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\UseEqualsDefault]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\UseNullptr]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\UseOverride]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+"Option.VirtualHandling"="remove"
+"Option.CheckDtors"="0"
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\UseTransparentFunctors]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+"Option.SafeMode"="1"
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CodeInspections\Checkers\UseUsing]
+"Level"=dword:00000300
+"Enabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\CommandBindings]
+"1-Command"="VAssistX.OpenFileInSolutionDialog"
+"1-Binding"="Shift+Alt+O"
+"1-EnableByDefault"=hex:00
+"1-CommandScope"="Global;"
+"2-Command"="VAssistX.NavigateBack"
+"2-Binding"="Alt+Left Arrow"
+"2-EnableByDefault"=hex:00
+"2-CommandScope"="Global;"
+"3-Command"="VAssistX.NavigateForward"
+"3-Binding"="Alt+Right Arrow"
+"3-EnableByDefault"=hex:00
+"3-CommandScope"="Global;Text Editor;"
+"4-Command"="VAssistX.FindSelected"
+"4-Binding"="Alt+K"
+"4-EnableByDefault"=hex:00
+"4-CommandScope"="Text Editor;"
+"5-Command"="VAssistX.ScopeNext"
+"5-Binding"="Alt+Down Arrow"
+"5-EnableByDefault"=hex:00
+"5-CommandScope"="Text Editor;"
+"6-Command"="VAssistX.ScopePrevious"
+"6-Binding"="Alt+Up Arrow"
+"6-EnableByDefault"=hex:00
+"6-CommandScope"="Text Editor;"
+"7-Command"="VAssistX.ResetEditorZoom"
+"7-Binding"="Ctrl+0"
+"7-EnableByDefault"=hex:00
+"7-CommandScope"="Text Editor;"
+"8-Command"="Window.CloseDocumentWindow"
+"8-Binding"="Ctrl+W"
+"8-EnableByDefault"=hex:00
+"8-CommandScope"="Text Editor;"
+"KeyBindingsCheck"=dword:000008c8
+"KeyBindingsVersion"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\Custom]
+"SystemInclude"="C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\include;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\include;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Auxiliary\\VS\\include;C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.10240.0\\ucrt;C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\um;C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\shared;C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\winrt;C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.6.1\\Include\\um;"
+"AdditionalInclude"=""
+"Library Dirs"="C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\lib\\x86;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\lib\\x86;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Auxiliary\\VS\\lib\\x86;C:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.10240.0\\ucrt\\x86;C:\\Program Files (x86)\\Windows Kits\\8.1\\lib\\winv6.3\\um\\x86;C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.6.1\\Lib\\um\\x86;"
+"GotoSourceDirs"="C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\src\\mfc;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\src\\mfcm;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\src\\atl;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\crt\\src;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Auxiliary\\VS\\src;C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.10240.0\\ucrt;"
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\Format]
+"TypoError"=hex:ff,00,00,00,ff,00,00,00
+"ContextError"=hex:00,ff,00,00,ff,ff,ff,00
+"ColumnIndicator"=hex:80,80,80,00,ff,ff,ff,00
+"Text"=hex:00,00,00,00,ff,ff,ff,00
+"Keyword"=hex:56,9c,d6,00,1e,1e,1e,00
+"Matched Brace/Paren"=hex:dc,dc,dc,00,1e,1e,1e,00
+"Mismatched Brace/Paren"=hex:ff,00,00,00,1e,1e,1e,00
+"Classes and Types"=hex:ff,d7,00,00,ff,ff,ff,00
+"Macros"=hex:bd,63,c5,00,ff,ff,ff,00
+"Variable"=hex:bd,b7,6b,00,ff,ff,ff,00
+"Functions"=hex:ff,80,00,00,ff,ff,ff,00
+"Comment"=hex:57,a6,4a,00,1e,1e,1e,00
+"Number"=hex:b5,ce,a8,00,1e,1e,1e,00
+"String"=hex:d6,9d,85,00,1e,1e,1e,00
+"Operator"=hex:b4,b4,b4,00,1e,1e,1e,00
+"Undefined"=hex:ff,00,00,00,ff,ff,ff,00
+"Reference"=hex:b9,b9,00,00,41,41,00,00
+"ReferenceAssign"=hex:ff,ff,00,00,41,41,00,00
+"FindResultsHighlight"=hex:ff,ff,ff,00,62,62,00,00
+"HighlightCurrentLine"=hex:80,80,80,00,00,00,00,00
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\Messages]
+"Vs2010+CheckForUpdateWarning"=hex:00
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\SourceLinks]
+"Enabled"=hex:00
+"EnableInPlainText"=hex:00
+"PluginPaths"="C:\\Program Files (x86)\\SourceLinksPlugins;"
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\SourceLinks\CreatedDefaultLinks]
+"ID-0"="d4d9b3fc-f549-43dd-9507-5c2bab670bf0"
+"ID-1"="5b70a0cf-2769-413f-9caa-5ac950be681d"
+"ID-2"="c8ce05b1-8804-4acc-8fb0-3f18d4ce8295"
+"ID-3"="c562b204-02ba-4f77-82bf-f3000fb43841"
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\SourceLinks\Link-0]
+"Keywords"="topic;TOPIC_ID"
+"KeywordSfx"=":="
+"ValueType"=dword:00000000
+"Enabled"=hex:00
+"Name"="Whole Tomato Software forums"
+"UrlExe"="https://www.wholetomato.com/forum/topic.asp?TOPIC_ID=$(Value)"
+"Args"=""
+"Behavior"=dword:00000000
+"PluginName"="Default"
+"PluginId"="26ad19f0-5a96-455a-bfac-be00c6c8ef88"
+"Id"="d4d9b3fc-f549-43dd-9507-5c2bab670bf0"
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\SourceLinks\Link-1]
+"Keywords"="case;bug"
+"KeywordSfx"=":="
+"ValueType"=dword:00000000
+"Enabled"=hex:00
+"Name"="FogBugz case navigation"
+"UrlExe"=""
+"Args"=""
+"Behavior"=dword:00000000
+"PluginName"="FogBugz (Whole Tomato Software)"
+"PluginId"="7e57038f-013d-3047-b394-52cf1976f929"
+"Id"="5b70a0cf-2769-413f-9caa-5ac950be681d"
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\SourceLinks\Link-2]
+"Keywords"="issue"
+"KeywordSfx"=":="
+"ValueType"=dword:00000000
+"Enabled"=hex:00
+"Name"="GitHub issue navigation"
+"UrlExe"=""
+"Args"=""
+"Behavior"=dword:00000000
+"PluginName"="GitHub (Whole Tomato Software)"
+"PluginId"="4b3c44a7-d42b-39c2-b66c-6a1a5d4f5be8"
+"Id"="c8ce05b1-8804-4acc-8fb0-3f18d4ce8295"
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\SourceLinks\Link-3]
+"Keywords"=""
+"KeywordSfx"=""
+"ValueType"=dword:00000000
+"Enabled"=hex:00
+"Name"="URL navigation"
+"UrlExe"=""
+"Args"=""
+"Behavior"=dword:00000000
+"PluginName"="URL (Whole Tomato Software)"
+"PluginId"="ec775e29-cbdf-40ac-80f6-261538235d6f"
+"Id"="c562b204-02ba-4f77-82bf-f3000fb43841"
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\va_x.INI]
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\va_x.INI\WindowPositions]
+"KeyboardShortcuts"="689,192,1139,910,1,0"
+"RecommendedKeyboardShortcuts"="625,355,1295,805,1,0"
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\Win32]
+"SystemInclude"="C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\include;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\include;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Auxiliary\\VS\\include;C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.10240.0\\ucrt;C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\um;C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\shared;C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\winrt;C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.6.1\\Include\\um;"
+"Library Dirs"="C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\lib\\x86;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\lib\\x86;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Auxiliary\\VS\\lib\\x86;C:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.10240.0\\ucrt\\x86;C:\\Program Files (x86)\\Windows Kits\\8.1\\lib\\winv6.3\\um\\x86;C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.6.1\\Lib\\um\\x86;"
+"GotoSourceDirs"="C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\src\\mfc;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\src\\mfcm;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\src\\atl;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\crt\\src;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Auxiliary\\VS\\src;C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.10240.0\\ucrt;"
+"Include Dirs"="C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\include;;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\include;;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Auxiliary\\VS\\include;;C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.10240.0\\ucrt;;;C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\um;C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\shared;C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\winrt;;C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.6.1\\Include\\um;;"
+"Source Dirs"="C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\src\\mfc;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\src\\mfcm;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\src\\atl;;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\crt\\src;;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Auxiliary\\VS\\src;;C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.10240.0\\ucrt;;;"
+"AdditionalInclude"=""
+
+[HKEY_CURRENT_USER\Software\Whole Tomato\Visual Assist X\VANet15\x64]
+"Include Dirs"="C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\include;;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\include;;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Auxiliary\\VS\\include;;C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.10240.0\\ucrt;;;C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\um;C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\shared;C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\winrt;;C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.6.1\\Include\\um;;"
+"SystemInclude"="C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\include;;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\include;;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Auxiliary\\VS\\include;;C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.10240.0\\ucrt;;;C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\um;C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\shared;C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\winrt;;C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.6.1\\Include\\um;;"
+"Library Dirs"="C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\lib\\x64;;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\lib\\x64;;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Auxiliary\\VS\\lib\\x64;;C:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.10240.0\\ucrt\\x64;;;C:\\Program Files (x86)\\Windows Kits\\8.1\\lib\\winv6.3\\um\\x64;;C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.6.1\\Lib\\um\\x64"
+"Source Dirs"="C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\src\\mfc;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\src\\mfcm;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\atlmfc\\src\\atl;;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\crt\\src;;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Auxiliary\\VS\\src;;C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.10240.0\\ucrt;;;"
+

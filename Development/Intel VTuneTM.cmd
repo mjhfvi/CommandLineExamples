@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Dev\VTuneTM\2018\VTune_Amplifier_2018_setup\setup.exe install --eula=accept --update=always --components=all --eval=install --output=C:\VTuneTM_output.txt

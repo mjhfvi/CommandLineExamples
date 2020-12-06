@@ -1,0 +1,1 @@
+rundll32 printui.dll,PrintUIEntry /in /n"\\SERVER\Sales Printer Xerox"

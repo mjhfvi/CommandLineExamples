@@ -1,0 +1,6 @@
+#===Import and Export Settings Command=================================
+#===Using Ctrl+Alt+A to get the command window use the following syntax
+
+
+Tools.ImportandExportSettings /export:"c:\ExportVSSettings.vssettings"
+Tools.ImportandExportSettings /import:"c:\ExportVSSettings.vssettings"

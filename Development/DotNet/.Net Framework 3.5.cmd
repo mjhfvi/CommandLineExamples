@@ -1,0 +1,1 @@
+DISM /Online /Enable-Feature /FeatureName:NetFx3 /All /LimitAccess /Source:"\\givfs01\Software\ISO\Windows 10\SW_DVD9_Win_Pro_10_1903_64BIT_English_Pro_Ent_EDU_N_MLF_X22-02890\sources\sxs"

@@ -1,0 +1,5 @@
+nltest /Server:SERVER /SC_RESET:DC
+
+nltest /dsgetdc:DOMAIN
+
+set LOGONSERVER

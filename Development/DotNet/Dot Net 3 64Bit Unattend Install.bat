@@ -1,0 +1,1 @@
+\\ilient-hq.local\Public\Installations\Microsoft\DotNet\dotnetfx3_x64.exe /q

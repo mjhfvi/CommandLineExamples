@@ -1,0 +1,1 @@
+reg add HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce /v AutoReInstall /t REG_SZ /d "File Path" /f

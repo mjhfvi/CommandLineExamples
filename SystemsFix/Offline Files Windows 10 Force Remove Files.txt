@@ -1,0 +1,11 @@
+cd c:\Windows
+takeown /f csc /r /a /d y > NUL
+icacls csc /grant Administrators:(F) /t /l /q
+
+
+
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Csc\Parameters
+If Parameters key does not exist under CSC you can add it.
+Now in the Parameters node create a new registry value with the name FormatDatabase of type REG_DWORD (i.e DWord 32-bit value)
+Set the data in this new registry value to 1.

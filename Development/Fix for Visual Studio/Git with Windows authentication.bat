@@ -1,0 +1,1 @@
+git config --system credential.il-air-dev01.authority Integrated

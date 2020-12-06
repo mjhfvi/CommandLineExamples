@@ -1,0 +1,1 @@
+Rename %appdata%\Microsoft\Outlook\ Outlook.old

@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CSC\Parameters]
+"CacheLocation"="\\??\\d:\\csc"
+"OnlineCachingLatencyThreshold"=dword:00007d00
+"PeerCachingLatencyThreshold"=dword:00000050
+"CachingEnabled"=dword:00000001
+

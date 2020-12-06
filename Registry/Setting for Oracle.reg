@@ -1,0 +1,44 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\New Windows]
+"PopupMgr"=dword:00000001
+"Use Anchor Hover Color"="1"
+"UseSecBand"=dword:00000001
+"PlaySound"=dword:00000001
+"BlockUserInit"=dword:00000000
+"UseTimerMethod"=dword:00000000
+"UseHooks"=dword:00000001
+"AllowHTTPS"=dword:00000000
+"BlockControls"=dword:00000000
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\New Windows\Allow]
+"oracle.3dsystems.com"=hex:00,00
+"3dsystems.kronos.net"=hex:00,00
+"qsoft.quickparts.com"=hex:00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\3dsystems.com\oracle]
+"https"=dword:00000002
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\quickparts.com\qsoft]
+"https"=dword:00000002
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\kronos.net\3dsystems]
+"https"=dword:00000002
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\3dsystems.com\*]
+"https"=dword:00000002
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\BrowserEmulation\ClearableListData]
+"UserFilter"=hex:41,1f,00,00,53,08,ad,ba,01,00,00,00,38,00,00,00,01,00,00,00,\
+  01,00,00,00,0c,00,00,00,91,dc,ad,f2,87,bf,d2,01,01,00,00,00,0d,00,33,00,64,\
+  00,73,00,79,00,73,00,74,00,65,00,6d,00,73,00,2e,00,63,00,6f,00,6d,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\Main]
+
+"Start Page"="https://oracleprodr12.3dsystems.com/"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\JavaSoft\Java Update\Policy]
+"EnableAutoUpdateCheck"=dword:00000000
+"EnableJavaUpdate"=dword:00000000
+"NotifyDownload"=dword:00000000
+"NotifyInstall"=dword:00000001

@@ -1,0 +1,10 @@
+msiexec.exe /x {6E3610B2-430D-4EB0-81E3-2B57E8B9DE8D} /qn
+msiexec.exe /x {70D55F7D-2CCE-403D-B333-956D729FF874} /qn
+msiexec.exe /x {2A87D48D-3FDF-41fd-97CD-A1E370EFFFE2} /qn
+msiexec.exe /x {B46BEA36-0B71-4A4E-AE41-87241643FA0A} /qn
+
+
+
+get-wmiobject -class Win32_Product
+
+

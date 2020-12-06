@@ -1,0 +1,1 @@
+REG ADD HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost /V EnableWebContentEvaluation /T REG_DWORD /D 0 /F

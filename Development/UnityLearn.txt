@@ -1,0 +1,39 @@
+VR
+UNet
+
+Animation
+FinalIK
+Scene Addatives (scene management in unity)
+
+
+public abstract class Ability : ScriptableObject
+public class RaycastAbility : Ability
+	private RaycastShootTriggerable rcShoot
+	public override void Initialize(GameObject obj)
+		rcShoot = obj.GetComponent<RaycastShootTriggerable> ();
+        rcShoot.Initialize ();
+
+
+public class AbilityCoolDown : MonoBehaviour
+	private Ability ability
+	private GameObject weaponHolder
+	public void Initialize(Ability selectedAbility, GameObject weaponHolder)
+		selectedAbility.Initialize (weaponHolder);
+	
+
+Done _________________________
+
+Scriptable Objects
+
+https://learn.unity.com/tutorial/introduction-to-scriptable-objects#
+https://learn.unity.com/tutorial/create-an-ability-system-with-scriptable-objects
+https://learn.unity.com/tutorial/using-coroutines
+
+
+https://www.youtube.com/watch?v=QbnVELXf5RQ
+
+
+Scriptable Objects hold the original data about a thing. 
+These can be treated as immutable data structures for DOD.
+Unchanging initialization data that can be shared across multiple objects.
+	Kinda like inheriting an XML chunk. 

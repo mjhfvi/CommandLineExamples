@@ -1,0 +1,1 @@
+"%ProgramFiles%\Microsoft Office\Office14\outlook.exe" /promptimportprf \\SERVER\Software\Office\SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_English_CORE_MLF_X17-76756\Outlook64PRF.PRF

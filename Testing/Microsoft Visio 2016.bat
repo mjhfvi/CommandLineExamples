@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Microsoft\OfficeAllVersions\Visio\SW_DVD5_Visio_Pro_2016_64Bit_English_MLF_X20-42764\setup /adminfile \\SERVER\Software\Installations\Microsoft\OfficeAllVersions\Visio\SW_DVD5_Visio_Pro_2016_64Bit_English_MLF_X20-42764\unattended.MSP

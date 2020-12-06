@@ -1,0 +1,2 @@
+\\SERVER\Software\Installations\Dev\Perforce\2015.2\p4vinst64.exe /v"/qb"
+"c:\program files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\vsixinstaller.exe" "\\SERVER\Software\Installations\Dev\Perforce\2015.2\p4vs11.vsix"

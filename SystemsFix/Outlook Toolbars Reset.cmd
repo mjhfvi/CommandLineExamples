@@ -1,0 +1,1 @@
+ren %appdata%\Microsoft\Outlook\outcmd.dat outcmd.dat.backup

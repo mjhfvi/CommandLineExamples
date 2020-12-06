@@ -1,0 +1,1 @@
+D:\SysInternalsSuite\psexec \\Computer -u "3dsystems\USER" -p "Password" msiexec.exe /i "path + software"

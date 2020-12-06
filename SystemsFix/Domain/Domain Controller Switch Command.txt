@@ -1,0 +1,1 @@
+nltest /Server:ClientComputerName /SC_RESET:DC

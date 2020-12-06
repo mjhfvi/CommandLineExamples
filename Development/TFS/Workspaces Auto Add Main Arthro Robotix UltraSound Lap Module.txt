@@ -1,0 +1,17 @@
+cd "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\"
+c:
+TF.exe get $/BasicStuff D:\SimProjects\Main\BasicStuff /recursive /force
+TF.exe get $/FlashDX D:\SimProjects\Main\FlashDX /recursive /force
+TF.exe get $/GPGPU D:\SimProjects\Main\GPGPU /recursive /force
+TF.exe get $/Hardware D:\SimProjects\Main\Hardware /recursive /force
+TF.exe get $/"LAP hardware installation" D:\SimProjects\Main\HW configuration /recursive /force
+TF.exe get $/PropertyPages D:\SimProjects\Main\PropertyPages /recursive /force
+TF.exe get $/RenderContexts D:\SimProjects\Main\RenderContexts /recursive /force
+TF.exe get $/Renderer_DX9 D:\SimProjects\Main\Renderer_DX9 /all /force
+TF.exe get $/SimDynamicExtensions D:\SimProjects\Main\SimDynamicExtensions /recursive /force
+TF.exe get $/SimEngCommon D:\SimProjects\Main\SimEngCommon /recursive /force
+TF.exe get $/Sim-Engine D:\SimProjects\Main\Sim-Engine /recursive /force
+TF.exe get $/TargetsManager D:\SimProjects\Main\TargetsManager /recursive /force
+TF.exe get $/UltraSound_Lib D:\SimProjects\Main\UltraSound_Lib /recursive /force
+
+

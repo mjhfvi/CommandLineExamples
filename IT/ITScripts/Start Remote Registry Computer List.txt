@@ -1,0 +1,1 @@
+D:\SysInternalsSuite\psexec \\ilair170103525d -u "USER" -p "Password" net start RemoteRegistry

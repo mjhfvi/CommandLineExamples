@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"SecurityHealth"=hex(2):25,00,77,00,69,00,6e,00,64,00,69,00,72,00,25,00,5c,00,\
+  73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,53,00,65,00,63,00,75,\
+  00,72,00,69,00,74,00,79,00,48,00,65,00,61,00,6c,00,74,00,68,00,53,00,79,00,\
+  73,00,74,00,72,00,61,00,79,00,2e,00,65,00,78,00,65,00,00,00
+"RtHDVCpl"="\"C:\\Program Files\\Realtek\\Audio\\HDA\\RtkNGUI64.exe\" /s"
+"RtHDVBg_MAXX6"="\"C:\\Program Files\\Realtek\\Audio\\HDA\\RAVBg64.exe\" /MAXX6 /WAVES_SUBTYPE_FOR_LYNC"
+"Apoint"="\"C:\\Program Files\\DellTPad\\Apoint.exe\""
+"WavesSvc"="\"C:\\Program Files\\Waves\\MaxxAudio\\WavesSvc64.exe\""
+"AutoClient"="\"c:\\elite\\AutoTest_Script\\autoclient.exe\" -startup"
+

@@ -1,0 +1,1 @@
+ren "%LocalAppData%\Microsoft\Team Foundation\3.0\Cache\" Cache.backup

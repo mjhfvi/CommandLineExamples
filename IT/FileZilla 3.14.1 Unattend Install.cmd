@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Filezilla\FileZilla_3.14.1_win64-setup.exe /S

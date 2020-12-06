@@ -1,0 +1,4 @@
+tf workspace /new /s:http://SERVER:8080/tfs/DefaultCollection /noprompt
+tf workfold "$/" "C:\SimProjects" /map /collection:http://SERVER:8080/tfs/DefaultCollection /workspace:%computername%
+
+timeout /t -1

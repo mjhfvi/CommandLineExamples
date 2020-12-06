@@ -1,0 +1,2 @@
+D:\SysInternalsSuite\psexec \\COMPUTER -u "USER" -p "Password" -w "c:\program files\Microsoft Office\Office16" cscript ospp.vbs /inpkey:LICENSE-KEY
+D:\SysInternalsSuite\psexec \\COMPUTER -u "USER" -p "Password" -w "c:\program files\Microsoft Office\Office16" cscript ospp.vbs /act  >> \\10.73.2.200\Downloads\OfficeActivation.txt

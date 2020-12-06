@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Programmers\NVidia\Cuda\CUDA_8.0.61.2\setup -s

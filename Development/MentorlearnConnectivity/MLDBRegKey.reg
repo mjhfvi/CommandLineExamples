@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Simbionix\DBConStr]
+"SimConStr"="ODBC;Description=SimDBMentorLearn on .\\mentorlearn;DRIVER=SQL Server;SERVER=.\\mentorlearn;APP=Simulator Application;DATABASE=SimDBMentorLearn;WSID=;UID=sa;PWD=Thereisnospoon(2010);"
+

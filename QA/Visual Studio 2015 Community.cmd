@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Programmers\"Visual Studio"\"Visual Studio 2015 Community"\vs_community_ENU.exe

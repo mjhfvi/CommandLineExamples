@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Antivirus\SecurityAntivirusRemovalPolicy\"Sophos Virus Removal Tool.exe"

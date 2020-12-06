@@ -1,0 +1,1 @@
+D:\SysInternalsSuite\psexec \\COMPUTER -u "USER" -p "Password" cscript slmgr.vbs /ipk #####-#####-#####-#####-#####

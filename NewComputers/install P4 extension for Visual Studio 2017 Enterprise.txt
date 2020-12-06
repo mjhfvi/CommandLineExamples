@@ -1,0 +1,6 @@
+\\GivFS01\Software\Installations\Dev\Perforce\2019.1\p4vinst64.exe /v"/qb"
+##P4 set P4PORT=iltlv-p4proxy:1666
+##you must restsrt the computer, then install P4 extension for Visual Studio 2017 Enterprise
+
+
+"C:\program files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\vsixinstaller.exe" "\\SERVER\Software\Installations\Dev\Perforce\2019.1\p4vs.vsix"

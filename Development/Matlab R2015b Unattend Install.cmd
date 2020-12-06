@@ -1,0 +1,1 @@
+\\SERVER\Versions\PROcedure\Insight\InsightPrerequisite\Matlab\MCR_R2015b_win64_installer.exe setup -mode silent -agreeToLicense yes

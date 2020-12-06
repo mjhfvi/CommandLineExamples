@@ -1,0 +1,1 @@
+xcopy \\SERVER\Software\Installations\Programmers\Boost\boost_1_45_0\* %PROGRAMFILES(X86)%\boost

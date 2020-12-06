@@ -1,0 +1,1 @@
+Get-ItemProperty -Path Registry::HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\TeamViewer\Version7 | Select-Object -Property ClientID > \\IL-AIR-FS01\Development\LAP\Utilities\TeamViewerID\TeamViewerID$env:computername.txt

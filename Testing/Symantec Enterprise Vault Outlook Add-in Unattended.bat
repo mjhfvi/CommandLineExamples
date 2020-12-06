@@ -1,0 +1,1 @@
+\\SERVER\PUBLIC\"3DIT Software"\Symantec\SymantecEnterpriseVault\"Symantec Enterprise Vault Outlook Add-in.msi" -qb

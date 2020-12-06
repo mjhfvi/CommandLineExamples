@@ -1,0 +1,59 @@
+echo on
+REM This will silently uninstall SolidWorks, remove the SolidWorks directory, and clean
+REM the Windows registry. Review, edit, remove or comment out (REM) entries as needed.
+REM NOTE: Run the Copy Settings Wizard and back up all SolidWorks configuration files
+REM before running this batch file.
+
+
+REM =======================================
+REM Remove the SolidWorks directory
+REM NOTE: This should point to the SolidWorks install directory.
+REM All customized documents (formats, etc.) should not be kept
+REM in this directory. Place them on the network and use
+REM Toos\Options\File Locations to point to the customized documents.
+
+rmdir /s /q "c:\program files\SolidWorks"
+rmdir /s /q "c:\program files\SolidWorks Corp"
+rmdir /s /q "c:\program files\common files\SolidWorks Shared"
+rmdir /s /q "c:\program files\common files\SolidWorks Installation Manager"
+
+rmdir /s /q "c:\program files (x86)\SolidWorks"
+rmdir /s /q "c:\program files (x86)\SolidWorks Corp"
+rmdir /s /q "c:\program files (x86)\common files\SolidWorks Shared"
+rmdir /s /q "c:\program files (x86)\common files\SolidWorks Installation Manager"
+rmdir /s /q "c:\program files (x86)\SolidWorksx86"
+
+rmdir /s /q "c:\windows\SolidWorks"
+
+rmdir /s /q "%APPDATA%\solidworks"
+rmdir /s /q "%APPDATA%\solidworks 2007"
+rmdir /s /q "%APPDATA%\solidworks 2008"
+rmdir /s /q "%APPDATA%\solidworks 2009"
+rmdir /s /q "%APPDATA%\solidworks 2010"
+rmdir /s /q "C:\Documents and Settings\All Users\Application Data\SolidWorks"
+
+
+REM ====================================
+REM Remove the SolidWorks Windows Registry keys.
+REM NOTE: If mulitple versions of SolidWorks are installed on the same machine, edit
+REM the reg file to add the desired SolidWorks version name.
+
+reg DELETE HKEY_CURRENT_USER\Software\Solidworks /f
+reg DELETE HKEY_CURRENT_USER\Software\SRAC /f
+reg DELETE HKEY_CURRENT_USER\Software\DesignSource /f
+reg DELETE HKEY_CURRENT_USER\Software\GSSL /f
+reg DELETE "HKEY_CURRENT_USER\Software\SolidWorks BackOffice" /f
+reg DELETE HKEY_CURRENT_USER\Software\SRAC /f
+
+reg DELETE HKEY_LOCAL_MACHINE\Software\SolidWorks\ /f
+reg DELETE HKEY_LOCAL_MACHINE\Software\Srac /f
+reg DELETE "HKEY_LOCAL_MACHINE\Software\SolidWorks Corporation" /f
+reg DELETE "HKEY_LOCAL_MACHINE\Software\FLEXlm License Manager" /f
+
+reg DELETE HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\SolidWorks /f
+reg DELETE "HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\SolidWorks Corporation" /f
+reg DELETE "HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\FLEXlm License Manager" /f
+
+
+echo "Press any key to contine"
+pause

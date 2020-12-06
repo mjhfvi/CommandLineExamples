@@ -1,0 +1,1 @@
+\\SERVER\Public\Installations\Microsoft\Service_Pack\WindowsServer2008andVistaServicePack2KB948465-X86.exe  /quiet /forcerestart

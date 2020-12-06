@@ -1,0 +1,1 @@
+D:\SysInternalsSuite\psexec \\COMPUTER -u "USER" -p "Password" cmd /c "pkgmgr /iu:TelnetServer"

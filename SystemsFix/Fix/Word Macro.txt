@@ -1,0 +1,10 @@
+Sub AutoOpen()
+ActiveWindow.ActivePane.View.Zoom.Percentage = 160
+End Sub
+
+Sub Macro1()
+'
+' Macro1 Macro
+'
+'
+End Sub

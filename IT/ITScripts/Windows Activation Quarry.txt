@@ -1,0 +1,1 @@
+D:\SysInternalsSuite\psexec \\COMPUTER -u "USER -p "Password" cscript slmgr.vbs /dlv >>  >> \\10.73.2.200\Downloads\WindowsActivationQuarry.txt

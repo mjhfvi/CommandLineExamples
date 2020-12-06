@@ -1,0 +1,46 @@
+"S:", "\\SERVER\Software\Installations" +
+
+"ILAIR_Finance" 
+"Y:", "\\SERVER\Finance" +
+
+"ILAIR_DEV"
+"V:", "\\SERVER\Development" +
+
+"ILAIR_IT"
+"T:", "\\SERVER\InformationTechnology" +
+
+"ILAIR_Sales"
+"S:", "\\SERVER\Sales" +
+
+"ILAIR_DEV_Graphics"
+"R:", "\\SERVER\Graphics" +
+
+"ILAIR_QA"
+"Q:", "\\SERVER\QualityAssurance" +
+
+"ILAIR_ProductManagers"
+"P:", "\\SERVER\ProductManagers" +
+
+"ILAIR_Production"
+"O:", "\\SERVER\Production" +
+
+"ILAIR_Marketing"
+"M:", "\\SERVER\Marketing" +
+
+Z:
+Y: Development
+X: Graphics
+W: \\SERVER\Software\Installations
+V: 
+U: HomeUsers
+T: InformationTechnology
+S: Sales
+R: \\SERVER\Projects
+Q: QualityAssurance
+P: ProductManagers
+O: Finance
+N: 
+M: Marketing
+L: Production
+K: SQLPRI
+J: 

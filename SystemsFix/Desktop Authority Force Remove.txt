@@ -1,0 +1,9 @@
+# Get users
+$users = Get-ChildItem -Path "C:\Users"
+
+# Loop through users and delete the file
+$users | ForEach-Object {
+Remove-Item -Path "C:\Users\$($_.Name)\AppData\Local\Temp\Desktop Authority" -Force -Recurse
+}
+
+Remove-Item -path "C:\Windows\System32\GroupPolicy\User\Scripts" -Force -Recurse

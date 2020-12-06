@@ -1,0 +1,8 @@
+D:\SysInternalsSuite\psexec \\Computer cmd /c "rundll32 printui.dll PrintUIEntry /in /n \\SERVER\SalesPrinterXerox" 
+
+
+
+
+D:\SysInternalsSuite\psexec \\Computer -u "USER" -p "Password" cmd /c PrintUI.exe /dl /n "\\SERVER\XeroxSales" /q
+D:\SysInternalsSuite\psexec \\Computer cmd /c PrintUI.exe /dl /n "\\SERVER\XeroxMain" /q
+

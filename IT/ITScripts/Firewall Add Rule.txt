@@ -1,0 +1,2 @@
+## Add Rule, IP address
+D:\SysInternalsSuite\psexec @ComputersList.txt  cmd /c netsh advfirewall firewall add rule name="Allow from 10.73.2.200" dir=in action=allow protocol=ANY remoteip=10.73.2.200

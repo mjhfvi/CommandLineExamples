@@ -1,0 +1,1 @@
+\\SERVER\Public\Installations\Microsoft\Service_Pack\WindowsServer2003.WindowsXP-KB914961-SP2-x64-ENU.exe  /quiet /forcerestart

@@ -1,0 +1,1 @@
+\\il-air-fs01\Software\Installations\Programmers\"Visual Assist"\"Visual Assist X"\VA_X_Setup2089.exe /S /LU "Jerry.Foglesong@3DSystems.Com (54-user license) Support ends 2017.12.22" /LK "00001T-X5Q1X9-11WQ9P-NVN4RP-A27PC2-X2YTQG-XFFMXV-85R5ZW-Q4GCWH-TYR1V2-A8BG5E"

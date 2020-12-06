@@ -1,0 +1,1 @@
+\\il-air-fs01\Software\Installations\Microsoft\"SQL Server"\"SQL 2008"\SQLServer2008SP1-KB968369-x86-ENU.exe /quiet /IAcceptSQLServerLicenseTerms

@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Programmers\"Visual Studio"\"Visual Studio 2015 Community"\vs2015.3.com_enu\vs_community.exe /Q

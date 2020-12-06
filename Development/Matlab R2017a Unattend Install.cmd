@@ -1,0 +1,1 @@
+\\SERVER\Versions\PROcedure\Insight\InsightPrerequisite\Matlab\matlab_R2017a_win64.exe setup -mode silent -agreeToLicense yes

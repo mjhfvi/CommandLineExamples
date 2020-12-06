@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Dev\FinalBuilder\FB800_2538.exe /SILENT

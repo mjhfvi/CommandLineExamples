@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Microsoft\OfficeAllVersions\Office2013\SW_DVD5_Office_Professional_Plus_2013_W32_English_MLF_X18-55138\setup  /adminfile \\SERVER\Software\Installations\Microsoft\OfficeAllVersions\Office2013\SW_DVD5_Office_Professional_Plus_2013_W32_English_MLF_X18-55138\unattended.MSP

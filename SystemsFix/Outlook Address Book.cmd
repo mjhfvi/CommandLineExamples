@@ -1,0 +1,1 @@
+ren "%localappdata%\Microsoft\Outlook\Offline Address Books" "Offline Address Books.backup"

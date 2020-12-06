@@ -1,0 +1,1 @@
+\\il-air-fs01\Software\Installations\Microsoft\DotNet\dotnetfx45_full_x86_x64.exe /q

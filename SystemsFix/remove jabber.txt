@@ -1,0 +1,2 @@
+RD /S /Q %LOCALAPPDATA%\Cisco\"Unified Communications"\Jabber
+RD /S /Q %APPDATA%\Cisco\"Unified Communications"\Jabber

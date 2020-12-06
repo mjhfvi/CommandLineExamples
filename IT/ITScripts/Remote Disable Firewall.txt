@@ -1,0 +1,10 @@
+## Start Firewall Fix
+D:\SysInternalsSuite\psexec @ComputerList.txt cmd /c NetSh Advfirewall set allprofiles state off
+D:\SysInternalsSuite\psexec @ComputerList.txt cmd /c net stop MpsSvc
+D:\SysInternalsSuite\psexec @ComputerList.txt cmd /c REG add "HKLM\SYSTEM\CurrentControlSet\services\MpsSvc" /v Start /t REG_DWORD /d 4 /f
+## End Firewall Fix
+D:\SysInternalsSuite\psexec @ComputerList.txt cmd /c net start RemoteRegistry
+D:\SysInternalsSuite\psexec @ComputerList.txt cmd reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f
+
+
+

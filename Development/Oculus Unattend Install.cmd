@@ -1,0 +1,1 @@
+\\SERVER\Software\Installations\Programmers\Oculus\OculusSetup.exe /unattended

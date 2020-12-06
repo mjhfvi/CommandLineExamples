@@ -1,0 +1,14 @@
+TF.exe get $/Appendectomy/2_0_0_0_with_patches D:\SimProjects\Lap\Appendectomy  /recursive /force
+TF.exe get $/DaVince_Branch/Cases/CuffClosureLAP D:\SimProjects\Lap\"LAP Cuff Closure"\Module0010  /recursive /force
+TF.exe get $/"LAP Cuff Closure" D:\SimProjects\Lap\"LAP Cuff Closure"\  /recursive /force
+TF.exe get $/Gastric D:\SimProjects\Lap\"SimEngine Gastric"\  /recursive /force
+TF.exe get $/Hysterectomy/New_Solution D:\SimProjects\Lap\Hysterectomy\New_Solution  /recursive /force
+TF.exe get $/"LAP Cholangiogram" D:\SimProjects\Lap\"LAP Cholangiogram"\  /recursive /force
+TF.exe get $/"LAP Chole" D:\SimProjects\Lap\"SimEngine LapChole"\  /recursive /force
+TF.exe get $/"LAP Legacy Projects" D:\SimProjects\Lap\"LAP Legacy Projects"\  /recursive /force
+TF.exe get $/Nephrectomy D:\SimProjects\Lap\"SimEngine Neph"\  /recursive /force
+TF.exe get $/"Sim-Engine Gyn" D:\SimProjects\Lap\"SimEngine Gyn"\  /recursive /force
+TF.exe get $/SimEngine_LET D:\SimProjects\Lap\"SimEngine LET"\  /recursive /force
+TF.exe get $/SimEngine_Sig D:\SimProjects\Lap\"SimEngine Sig"\  /recursive /force
+TF.exe get $/SuturingLapVS2010 D:\SimProjects\Lap\"SimEngine Suturing"\  /recursive /force
+TF.exe get $/"Ventral Hernia" D:\SimProjects\Lap\"SimEngine Hernia"\  /recursive /force

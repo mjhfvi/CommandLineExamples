@@ -1,0 +1,1 @@
+C:\SysInternalsSuite\psexec @ComputerList.txt Net LocalGroup Administrators net localgroup exec "3DSYSTEMS\Global Support Admin Group" /add

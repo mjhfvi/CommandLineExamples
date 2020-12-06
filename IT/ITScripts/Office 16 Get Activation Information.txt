@@ -1,0 +1,1 @@
+D:\SysInternalsSuite\psexec \\COMPUTER -u "USER" -p "Password" cscript "c:\program files\Microsoft Office\Office16\ospp.vbs� /dstatusall >> \\10.73.2.200\Downloads\OfficeActivationQuarry.txt

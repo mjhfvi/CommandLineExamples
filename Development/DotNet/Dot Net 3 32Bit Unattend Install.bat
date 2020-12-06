@@ -1,0 +1,1 @@
+\\ilient-hq.local\Public\Installations\Microsoft\DotNet\dotnetfx35.exe /q

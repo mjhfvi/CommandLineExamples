@@ -1,0 +1,1 @@
+runas /user:USER C:\WINDOWS\CCM\ClientUX\SCClient.exe

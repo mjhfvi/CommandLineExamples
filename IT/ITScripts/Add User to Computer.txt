@@ -1,0 +1,18 @@
+## Add user to computer ##
+net user USERNAME PASSWORD /ADD
+
+## Add user to administrators group ##
+net localgroup administrators net localuser exec USERNAME /ADD
+
+## change user password ##
+net user USERNAME PASSWORD
+
+
+
+C:\SysInternalsSuite\psexec @ComputerList.txt net user owner PASSWORD /ADD
+C:\SysInternalsSuite\psexec @ComputerList.txt net localgroup administrators net localuser exec owner /ADD
+C:\SysInternalsSuite\psexec @ComputerList.txt net user owner PASSWORD
+
+
+
+

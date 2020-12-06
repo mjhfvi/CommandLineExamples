@@ -1,0 +1,1 @@
+\\SERVER\Software\Microsoft\ServicePacks\windows6.1-KB976932-X64.exe  /unattend /promptrestart

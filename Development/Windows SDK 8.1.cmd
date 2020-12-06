@@ -1,0 +1,1 @@
+"\\SERVER\Software\Installations\Programmers\Visual Studio\Windows SDK 8.1\sdksetup.exe" /quiet

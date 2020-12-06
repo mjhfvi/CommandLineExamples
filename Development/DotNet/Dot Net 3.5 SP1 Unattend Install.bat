@@ -1,0 +1,1 @@
+\\il-air-fs01\Software\Installations\Microsoft\DotNet\dotnetfx35SP1.exe /q

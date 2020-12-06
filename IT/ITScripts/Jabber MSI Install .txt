@@ -1,0 +1,6 @@
+psexec @ComputerList.txt -u "USER" -p "Password" cmd /c xcopy \\SERVER\Software\Installations\3DIT c:\3DIT\ /e -y
+psexec @ComputerList.txt -u "USER" -p "Password" cmd /c xcopy \\SERVER\Software\Installations\Jabber\CiscoJabberSetup.msi C:\3DIT
+psexec @ComputerList.txt -u "USER" -p "Password" msiexec.exe /i C:\3DIT\CiscoJabberSetup.msi /qn
+psexec @ComputerList.txt -u "USER" -p "Password" cmd /c del C:\3DIT\CiscoJabberSetup.msi
+
+

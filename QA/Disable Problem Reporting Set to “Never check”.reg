@@ -1,0 +1,259 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting]
+"ErrorPort"="\\WindowsErrorReportingServicePort"
+"MaxQueueSizePercentage"=dword:00000001
+"PurgeThreshholdValueInKB"=dword:0000000a
+"ServiceTimeout"=dword:0000ea60
+"MachineID"="E6DD8F4D-8056-4C9B-A46C-15E7128724FA"
+"disabled"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\Consent]
+"NewUserDefaultConsent"=dword:00000002
+"SQL120MSI"=dword:00000002
+"SQL120Exception"=dword:00000002
+"SQLException64"=dword:00000004
+"SQLException"=dword:00000004
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\Debug]
+"ExceptionRecord"=hex:1d,00,00,c0,00,00,00,00,00,00,00,00,00,00,00,00,03,be,0a,\
+  53,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00
+"StoreLocation"="C:\\Users\\USER\\AppData\\Local\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_clementine.exe_265cf96e721c75a5bee9c8f7d7a86ae7545772_01ff436d"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\Debug\UIHandles]
+"CheckingForSolutionDialog"=hex(b):e6,07,0b,00,00,00,00,00
+"RestartDialog"=hex(b):d8,03,3b,00,00,00,00,00
+"CloseDialog"=hex(b):1a,10,58,0d,00,00,00,00
+"FirstLevelConsentDialog"=hex(b):9a,0c,5b,00,00,00,00,00
+"RecoveryDialog"=hex(b):42,09,1c,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\DebugApplications]
+"w3wp.exe"=dword:00000001
+"aspnet_wp.exe"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\Hangs]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\HeapControlledList]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\HeapControlledList\dwm.exe]
+"EnableHeapThrottle"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\KernelFaults]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\DisplayFusion.exe]
+"DumpType"=dword:00000002
+"DumpFolder"=hex(2):25,00,4c,00,4f,00,43,00,41,00,4c,00,41,00,50,00,50,00,44,\
+  00,41,00,54,00,41,00,25,00,5c,00,42,00,69,00,6e,00,61,00,72,00,79,00,20,00,\
+  46,00,6f,00,72,00,74,00,72,00,65,00,73,00,73,00,20,00,53,00,6f,00,66,00,74,\
+  00,77,00,61,00,72,00,65,00,5c,00,44,00,69,00,73,00,70,00,6c,00,61,00,79,00,\
+  46,00,75,00,73,00,69,00,6f,00,6e,00,5c,00,43,00,72,00,61,00,73,00,68,00,44,\
+  00,75,00,6d,00,70,00,73,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\DisplayFusionCommand.exe]
+"DumpType"=dword:00000002
+"DumpFolder"=hex(2):25,00,4c,00,4f,00,43,00,41,00,4c,00,41,00,50,00,50,00,44,\
+  00,41,00,54,00,41,00,25,00,5c,00,42,00,69,00,6e,00,61,00,72,00,79,00,20,00,\
+  46,00,6f,00,72,00,74,00,72,00,65,00,73,00,73,00,20,00,53,00,6f,00,66,00,74,\
+  00,77,00,61,00,72,00,65,00,5c,00,44,00,69,00,73,00,70,00,6c,00,61,00,79,00,\
+  46,00,75,00,73,00,69,00,6f,00,6e,00,5c,00,43,00,72,00,61,00,73,00,68,00,44,\
+  00,75,00,6d,00,70,00,73,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\DisplayFusionHelperWin8.exe]
+"DumpType"=dword:00000002
+"DumpFolder"=hex(2):25,00,4c,00,4f,00,43,00,41,00,4c,00,41,00,50,00,50,00,44,\
+  00,41,00,54,00,41,00,25,00,5c,00,42,00,69,00,6e,00,61,00,72,00,79,00,20,00,\
+  46,00,6f,00,72,00,74,00,72,00,65,00,73,00,73,00,20,00,53,00,6f,00,66,00,74,\
+  00,77,00,61,00,72,00,65,00,5c,00,44,00,69,00,73,00,70,00,6c,00,61,00,79,00,\
+  46,00,75,00,73,00,69,00,6f,00,6e,00,5c,00,43,00,72,00,61,00,73,00,68,00,44,\
+  00,75,00,6d,00,70,00,73,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\DisplayFusionHookAppWIN5032.exe]
+"DumpType"=dword:00000002
+"DumpFolder"=hex(2):25,00,4c,00,4f,00,43,00,41,00,4c,00,41,00,50,00,50,00,44,\
+  00,41,00,54,00,41,00,25,00,5c,00,42,00,69,00,6e,00,61,00,72,00,79,00,20,00,\
+  46,00,6f,00,72,00,74,00,72,00,65,00,73,00,73,00,20,00,53,00,6f,00,66,00,74,\
+  00,77,00,61,00,72,00,65,00,5c,00,44,00,69,00,73,00,70,00,6c,00,61,00,79,00,\
+  46,00,75,00,73,00,69,00,6f,00,6e,00,5c,00,43,00,72,00,61,00,73,00,68,00,44,\
+  00,75,00,6d,00,70,00,73,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\DisplayFusionHookAppWIN5064.exe]
+"DumpType"=dword:00000002
+"DumpFolder"=hex(2):25,00,4c,00,4f,00,43,00,41,00,4c,00,41,00,50,00,50,00,44,\
+  00,41,00,54,00,41,00,25,00,5c,00,42,00,69,00,6e,00,61,00,72,00,79,00,20,00,\
+  46,00,6f,00,72,00,74,00,72,00,65,00,73,00,73,00,20,00,53,00,6f,00,66,00,74,\
+  00,77,00,61,00,72,00,65,00,5c,00,44,00,69,00,73,00,70,00,6c,00,61,00,79,00,\
+  46,00,75,00,73,00,69,00,6f,00,6e,00,5c,00,43,00,72,00,61,00,73,00,68,00,44,\
+  00,75,00,6d,00,70,00,73,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\DisplayFusionHookAppWIN6032.exe]
+"DumpType"=dword:00000002
+"DumpFolder"=hex(2):25,00,4c,00,4f,00,43,00,41,00,4c,00,41,00,50,00,50,00,44,\
+  00,41,00,54,00,41,00,25,00,5c,00,42,00,69,00,6e,00,61,00,72,00,79,00,20,00,\
+  46,00,6f,00,72,00,74,00,72,00,65,00,73,00,73,00,20,00,53,00,6f,00,66,00,74,\
+  00,77,00,61,00,72,00,65,00,5c,00,44,00,69,00,73,00,70,00,6c,00,61,00,79,00,\
+  46,00,75,00,73,00,69,00,6f,00,6e,00,5c,00,43,00,72,00,61,00,73,00,68,00,44,\
+  00,75,00,6d,00,70,00,73,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\DisplayFusionHookAppWIN6064.exe]
+"DumpType"=dword:00000002
+"DumpFolder"=hex(2):25,00,4c,00,4f,00,43,00,41,00,4c,00,41,00,50,00,50,00,44,\
+  00,41,00,54,00,41,00,25,00,5c,00,42,00,69,00,6e,00,61,00,72,00,79,00,20,00,\
+  46,00,6f,00,72,00,74,00,72,00,65,00,73,00,73,00,20,00,53,00,6f,00,66,00,74,\
+  00,77,00,61,00,72,00,65,00,5c,00,44,00,69,00,73,00,70,00,6c,00,61,00,79,00,\
+  46,00,75,00,73,00,69,00,6f,00,6e,00,5c,00,43,00,72,00,61,00,73,00,68,00,44,\
+  00,75,00,6d,00,70,00,73,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\DisplayFusionService.exe]
+"DumpType"=dword:00000002
+"DumpFolder"=hex(2):25,00,4c,00,4f,00,43,00,41,00,4c,00,41,00,50,00,50,00,44,\
+  00,41,00,54,00,41,00,25,00,5c,00,42,00,69,00,6e,00,61,00,72,00,79,00,20,00,\
+  46,00,6f,00,72,00,74,00,72,00,65,00,73,00,73,00,20,00,53,00,6f,00,66,00,74,\
+  00,77,00,61,00,72,00,65,00,5c,00,44,00,69,00,73,00,70,00,6c,00,61,00,79,00,\
+  46,00,75,00,73,00,69,00,6f,00,6e,00,5c,00,43,00,72,00,61,00,73,00,68,00,44,\
+  00,75,00,6d,00,70,00,73,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\DisplayFusionSettings.exe]
+"DumpType"=dword:00000002
+"DumpFolder"=hex(2):25,00,4c,00,4f,00,43,00,41,00,4c,00,41,00,50,00,50,00,44,\
+  00,41,00,54,00,41,00,25,00,5c,00,42,00,69,00,6e,00,61,00,72,00,79,00,20,00,\
+  46,00,6f,00,72,00,74,00,72,00,65,00,73,00,73,00,20,00,53,00,6f,00,66,00,74,\
+  00,77,00,61,00,72,00,65,00,5c,00,44,00,69,00,73,00,70,00,6c,00,61,00,79,00,\
+  46,00,75,00,73,00,69,00,6f,00,6e,00,5c,00,43,00,72,00,61,00,73,00,68,00,44,\
+  00,75,00,6d,00,70,00,73,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\filezilla.exe]
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\fzputtygen.exe]
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\fzsftp.exe]
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\GFExperience.exe]
+"DumpFolder"=hex(2):25,00,50,00,52,00,4f,00,47,00,52,00,41,00,4d,00,44,00,41,\
+  00,54,00,41,00,25,00,5c,00,4e,00,56,00,49,00,44,00,49,00,41,00,20,00,43,00,\
+  6f,00,72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,43,00,72,\
+  00,61,00,73,00,68,00,44,00,75,00,6d,00,70,00,73,00,00,00
+"DumpCount"=dword:0000000f
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\GfExperienceService64.exe]
+"DumpFolder"=hex(2):25,00,50,00,52,00,4f,00,47,00,52,00,41,00,4d,00,44,00,41,\
+  00,54,00,41,00,25,00,5c,00,4e,00,56,00,49,00,44,00,49,00,41,00,20,00,43,00,\
+  6f,00,72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,43,00,72,\
+  00,61,00,73,00,68,00,44,00,75,00,6d,00,70,00,73,00,00,00
+"DumpCount"=dword:0000000f
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\LaunchGFExperience.exe]
+"DumpFolder"=hex(2):25,00,50,00,52,00,4f,00,47,00,52,00,41,00,4d,00,44,00,41,\
+  00,54,00,41,00,25,00,5c,00,4e,00,56,00,49,00,44,00,49,00,41,00,20,00,43,00,\
+  6f,00,72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,43,00,72,\
+  00,61,00,73,00,68,00,44,00,75,00,6d,00,70,00,73,00,00,00
+"DumpCount"=dword:0000000f
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\NvBackend.exe]
+"DumpFolder"=hex(2):25,00,50,00,52,00,4f,00,47,00,52,00,41,00,4d,00,44,00,41,\
+  00,54,00,41,00,25,00,5c,00,4e,00,56,00,49,00,44,00,49,00,41,00,20,00,43,00,\
+  6f,00,72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,43,00,72,\
+  00,61,00,73,00,68,00,44,00,75,00,6d,00,70,00,73,00,00,00
+"DumpCount"=dword:0000000f
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\NVIDIA.SteamLauncher.exe]
+"DumpFolder"=hex(2):25,00,50,00,52,00,4f,00,47,00,52,00,41,00,4d,00,44,00,41,\
+  00,54,00,41,00,25,00,5c,00,4e,00,56,00,49,00,44,00,49,00,41,00,20,00,43,00,\
+  6f,00,72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,43,00,72,\
+  00,61,00,73,00,68,00,44,00,75,00,6d,00,70,00,73,00,00,00
+"DumpCount"=dword:00000001
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\NvLedServiceHost.exe]
+"DumpFolder"=hex(2):25,00,50,00,52,00,4f,00,47,00,52,00,41,00,4d,00,44,00,41,\
+  00,54,00,41,00,25,00,5c,00,4e,00,56,00,49,00,44,00,49,00,41,00,20,00,43,00,\
+  6f,00,72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,43,00,72,\
+  00,61,00,73,00,68,00,44,00,75,00,6d,00,70,00,73,00,00,00
+"DumpCount"=dword:0000000f
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\NvLedVisualizer.exe]
+"DumpFolder"=hex(2):25,00,50,00,52,00,4f,00,47,00,52,00,41,00,4d,00,44,00,41,\
+  00,54,00,41,00,25,00,5c,00,4e,00,56,00,49,00,44,00,49,00,41,00,20,00,43,00,\
+  6f,00,72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,43,00,72,\
+  00,61,00,73,00,68,00,44,00,75,00,6d,00,70,00,73,00,00,00
+"DumpCount"=dword:0000000f
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\nvshelper64.exe]
+"DumpFolder"=hex(2):25,00,50,00,52,00,4f,00,47,00,52,00,41,00,4d,00,44,00,41,\
+  00,54,00,41,00,25,00,5c,00,4e,00,56,00,49,00,44,00,49,00,41,00,20,00,43,00,\
+  6f,00,72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,43,00,72,\
+  00,61,00,73,00,68,00,44,00,75,00,6d,00,70,00,73,00,00,00
+"DumpCount"=dword:0000000f
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\nvspcaps64.exe]
+"DumpFolder"=hex(2):25,00,50,00,52,00,4f,00,47,00,52,00,41,00,4d,00,44,00,41,\
+  00,54,00,41,00,25,00,5c,00,4e,00,56,00,49,00,44,00,49,00,41,00,20,00,43,00,\
+  6f,00,72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,43,00,72,\
+  00,61,00,73,00,68,00,44,00,75,00,6d,00,70,00,73,00,00,00
+"DumpCount"=dword:0000000f
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\nvstreamer.exe]
+"DumpFolder"=hex(2):25,00,50,00,52,00,4f,00,47,00,52,00,41,00,4d,00,44,00,41,\
+  00,54,00,41,00,25,00,5c,00,4e,00,56,00,49,00,44,00,49,00,41,00,20,00,43,00,\
+  6f,00,72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,43,00,72,\
+  00,61,00,73,00,68,00,44,00,75,00,6d,00,70,00,73,00,00,00
+"DumpCount"=dword:00000001
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\NvStreamNetworkService.exe]
+"DumpFolder"=hex(2):25,00,50,00,52,00,4f,00,47,00,52,00,41,00,4d,00,44,00,41,\
+  00,54,00,41,00,25,00,5c,00,4e,00,56,00,49,00,44,00,49,00,41,00,20,00,43,00,\
+  6f,00,72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,43,00,72,\
+  00,61,00,73,00,68,00,44,00,75,00,6d,00,70,00,73,00,00,00
+"DumpCount"=dword:00000001
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\NvStreamService.exe]
+"DumpFolder"=hex(2):25,00,50,00,52,00,4f,00,47,00,52,00,41,00,4d,00,44,00,41,\
+  00,54,00,41,00,25,00,5c,00,4e,00,56,00,49,00,44,00,49,00,41,00,20,00,43,00,\
+  6f,00,72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,43,00,72,\
+  00,61,00,73,00,68,00,44,00,75,00,6d,00,70,00,73,00,00,00
+"DumpCount"=dword:00000001
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\NvStreamUserAgent.exe]
+"DumpFolder"=hex(2):25,00,50,00,52,00,4f,00,47,00,52,00,41,00,4d,00,44,00,41,\
+  00,54,00,41,00,25,00,5c,00,4e,00,56,00,49,00,44,00,49,00,41,00,20,00,43,00,\
+  6f,00,72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,43,00,72,\
+  00,61,00,73,00,68,00,44,00,75,00,6d,00,70,00,73,00,00,00
+"DumpCount"=dword:00000001
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\WLMerger.exe]
+"DumpFolder"=hex(2):25,00,50,00,52,00,4f,00,47,00,52,00,41,00,4d,00,44,00,41,\
+  00,54,00,41,00,25,00,5c,00,4e,00,56,00,49,00,44,00,49,00,41,00,20,00,43,00,\
+  6f,00,72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,43,00,72,\
+  00,61,00,73,00,68,00,44,00,75,00,6d,00,70,00,73,00,00,00
+"DumpCount"=dword:0000000f
+"DumpType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\RuntimeExceptionHelperModules]
+"C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\mscordacwks.dll"=dword:00000000
+"C:\\Program Files\\Common Files\\Microsoft Shared\\OFFICE15\\AIRWER.DLL"=dword:00000000
+"C:\\Program Files\\Common Files\\Microsoft Shared\\OFFICE16\\AIRWER.DLL"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\WMR]
+"Disable"=dword:00000001
+

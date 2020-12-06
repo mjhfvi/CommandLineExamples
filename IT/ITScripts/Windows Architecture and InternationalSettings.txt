@@ -1,0 +1,2 @@
+Get-WinSystemLocale
+gwmi win32_operatingsystem | select osarchitecture

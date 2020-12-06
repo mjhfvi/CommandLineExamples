@@ -1,0 +1,4 @@
+nltest /sc_verify:DOMIAN
+nltest /server:il-air-dc01 /sc_query:DOMIAN
+
+Reset-ComputerMachinePassword -Server DC -Credential USER

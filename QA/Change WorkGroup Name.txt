@@ -1,0 +1,2 @@
+Add-Computer -WorkGroupName "WorkgroupQA"
+

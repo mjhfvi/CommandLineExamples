@@ -1,0 +1,5 @@
+cd %LOCALAPPDATA%\Cisco\
+ren "Unified Communications" "Unified Communications".old
+
+cd %APPDATA%\Cisco\
+ren "Unified Communications" "Unified Communications".old

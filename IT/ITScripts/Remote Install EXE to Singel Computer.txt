@@ -1,0 +1,2 @@
+D:\SysInternalsSuite\psexec \\COMPUTER -u "USER" -p "Password" "path + software" /INSTALL COMMAND
+
