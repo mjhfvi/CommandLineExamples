@@ -1,3 +1,1 @@
 \\SERVER\Software\Installations\Skype\SkypeSetupFull.exe /VERYSILENT /SP- /NOCANCEL /NORESTART /SUPPRESSMSGBOXES /NOICONS
-
-

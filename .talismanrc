@@ -1,0 +1,16 @@
+# If you are absolutely sure that you want to ignore the above files from talisman detectors,
+# consider pasting the following format in .talismanrc file in the project root
+---
+fileignoreconfig:
+- filename: .yamllint.yaml
+  checksum: 268cb8045ae68ca3560f8feb149bfbfde96aaed8b38853e305d6de5d0221ab93
+- filename: Java 7 191 32Bit For Oracle Unattend Install.bat
+  checksum: 42cad8bee607d5e42e5577ee4f4805a9a8e5e9106143775870d49cd2109434d7
+- filename: Java 8 Oracle Unattend Install.bat
+  checksum: 99c9c566549cd5b4d82e54d836c14187ba4833bc22ad8206c346cb279e117589
+- filename: .gitleaksignore
+  checksum: 3f051b9ecb89fded2982f0721d0641cc85d2968ecf73837e00e6cafdb98dcbd6
+- filename: .secrets.baseline
+  checksum: 701567810f4a4f49ec8842cee96cac0cfb68bb466019adac0b3b3a9093584e44
+- filename: .pre-commit-config.yaml
+  checksum: 0b531429aeb0360a57e0b453a3277f399b1cb263a774f2281f37c45f015c9f0b
